@@ -1,7 +1,7 @@
 # r2d2-datastore
 The datastore for the R2D2 project, created as part of Cohort 4's group project
 
-## r2d2-datastore
+## Datastore Principles
 Data will be stored inline with the R2 D2 Project Data Management Plan - stored here for details (link to be provided). Please ensure the following concepts are followed on submission of data:
 - Data is stored in an open and accessible format in line with the FAIR principles
 - A licence file is provided for any specific data licences
