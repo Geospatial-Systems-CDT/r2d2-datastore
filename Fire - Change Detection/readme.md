@@ -1,6 +1,6 @@
 # Change Detection using Sentinel-1 SAR images
 
-## Introduction
+## Details
 A change detection method utilising Google Earth Engine and Sentinel-1 imagery, based on the method described by Canty et.al, (2020), was used to detect the changes in height of illegal waste sites. 
 
 Four images from May 2015 were obtained of the former Alex Smiles Limited recycling facility in Deptford Terrace, Sunderland. This study area was chosen because it was the location of rapidly changing waste site heights in the weeks before its eventual closure in May 2015.
