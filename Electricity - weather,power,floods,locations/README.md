@@ -18,8 +18,9 @@ Northern power statistics
 From studying the nature of the power cuts themselves, we can see that the majority of power cuts are localised fault categories, and cumulatively take as much time as the planned works on the system to resolve. It is to be noted that these entries get modified about every 5 minutes, which is the frequency at which Northern Power Grid updates its entries. 
 
 ![alt text](https://github.com/Geospatial-Systems-CDT/r2d2-datastore/blob/main/Electricity%20-%20weather%2Cpower%2Cfloods%2Clocations/Write%20up/6-power-hours.png "Power Cut frequency and Counts in the North East")
+Unique Power Cuts plotted with Frequency.
 
 ![alt text](https://github.com/Geospatial-Systems-CDT/r2d2-datastore/blob/main/Electricity%20-%20weather%2Cpower%2Cfloods%2Clocations/Write%20up/power_freq.png "Unique Power Cuts plotted by reason of fault")
-Example of a detected incursion in the Metrocentre Area of Newcastle
+Unique Power Cuts plotted by reason of fault
 
 Additionally, the bulk of the power cuts on those 3 days were from unexpected problems with the cables or equipment, which means that isolating power cut causes for something like a natural disaster might be a bit difficult without corroborating the known power cuts with other forms of data, such as twitter, night time imagery, etc. 
