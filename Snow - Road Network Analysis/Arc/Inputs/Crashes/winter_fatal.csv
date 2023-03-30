@@ -1,0 +1,14 @@
+"accident_reference","longitude","latitude","police_force","date","local_authority_district","accident_severity","weather_conditions","road_surface_conditions","severity"
+"100829258","-1.726679","55.278922","Northumbria Police","04/04/2019","Northumberland","Fatal","Snowing no high winds.","Frost or Ice",1
+"100266611","-1.617468","54.982974","Northumbria Police","06/02/2018","Newcastle upon Tyne","Fatal","Snowing no high winds.","Wet or Damp",1
+"100154384","-1.447127","54.865957","Northumbria Police","09/02/2017","Sunderland","Fatal","Snowing no high winds.","Wet or Damp",1
+"110161773","-1.547628","54.78855","Durham Constabulary","10/02/2017","County Durham","Fatal","Snowing no high winds.","Wet or Damp",1
+"110263322","-1.786924","54.841128","Durham Constabulary","29/12/2017","County Durham","Fatal","Snowing no high winds.","Snow",1
+"110922321","-1.554843","54.785773","Durham Constabulary","23/01/2020","County Durham","Fatal","Fine no high winds.","Frost or Ice",1
+"111010289","-1.429474","54.642603","Durham Constabulary","28/12/2020","County Durham","Fatal","Fine no high winds.","Frost or Ice",1
+"100829258","-1.726679","55.278922","Northumbria Police","04/04/2019","Northumberland","Fatal","Snowing no high winds.","Frost or Ice",1
+"100319914","-1.473428","54.957905","Northumbria Police","21/01/2018","South Tyneside","Fatal","Fine no high winds.","Frost or Ice",1
+"100244418","-1.822948","55.099249","Northumbria Police","29/11/2017","Northumberland","Fatal","Fine no high winds.","Frost or Ice",1
+"110263322","-1.786924","54.841128","Durham Constabulary","29/12/2017","County Durham","Fatal","Snowing no high winds.","Snow",1
+"100104516","-2.320068","54.977616","Northumbria Police","15/02/2016","Northumberland","Fatal","Fine no high winds.","Frost or Ice",1
+"110050067","-1.663903","54.693856","Durham Constabulary","05/03/2016","County Durham","Fatal","Fine no high winds.","Frost or Ice",1

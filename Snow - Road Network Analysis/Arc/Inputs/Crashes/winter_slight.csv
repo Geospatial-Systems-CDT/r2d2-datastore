@@ -1,0 +1,556 @@
+"accident_reference","longitude","latitude","police_force","date","local_authority_district","accident_severity","weather_conditions","road_surface_conditions","severity"
+"100929914","-1.611553","54.974023","Northumbria Police","12/02/2020","Newcastle upon Tyne","Slight","Snowing and high winds.","Wet or Damp",3
+"100933183","-2.143474","55.041512","Northumbria Police","24/02/2020","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100933243","-1.604614","55.003117","Northumbria Police","24/02/2020","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100933285","-1.621872","55.041434","Northumbria Police","24/02/2020","North Tyneside","Slight","Snowing no high winds.","Snow",3
+"100933556","-1.527834","54.995277","Northumbria Police","24/02/2020","North Tyneside","Slight","Snowing and high winds.","Frost or Ice",3
+"100934621","-1.594526","55.084147","Northumbria Police","24/02/2020","Northumberland","Slight","Snowing no high winds.","Snow",3
+"101010210","-1.416845","54.973454","Northumbria Police","24/12/2020","South Tyneside","Slight","Snowing no high winds.","Wet or Damp",3
+"101010256","-1.640553","54.950551","Northumbria Police","25/12/2020","Gateshead","Slight","Snowing no high winds.","Wet or Damp",3
+"101010690","-1.436616","54.976162","Northumbria Police","24/12/2020","South Tyneside","Slight","Snowing no high winds.","Wet or Damp",3
+"101011046","-1.637466","54.939578","Northumbria Police","30/12/2020","Gateshead","Slight","Snowing no high winds.","Frost or Ice",3
+"101027173","-1.557521","55.129883","Northumbria Police","31/12/2020","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"110933841","-1.435808","54.739096","Durham Constabulary","24/02/2020","County Durham","Slight","Snowing no high winds.","Snow",3
+"110933868","-1.588788","54.805725","Durham Constabulary","24/02/2020","County Durham","Slight","Snowing no high winds.","Snow",3
+"110937937","-1.352805","54.788953","Durham Constabulary","24/02/2020","County Durham","Slight","Snowing and high winds.","Snow",3
+"110937992","-1.518029","54.643706","Durham Constabulary","25/02/2020","County Durham","Slight","Snowing no high winds.","Snow",3
+"110940865","-1.557927","54.523597","Durham Constabulary","29/02/2020","Darlington","Slight","Snowing and high winds.","Wet or Damp",3
+"111010847","-1.697707","54.867952","Durham Constabulary","24/12/2020","County Durham","Slight","Snowing no high winds.","Wet or Damp",3
+"170H10160","-1.292209","54.702963","Cleveland Police","24/02/2020","Hartlepool","Slight","Snowing and high winds.","Snow",3
+"100355217","-1.407386","54.852865","Northumbria Police","17/01/2019","Sunderland","Slight","Snowing and high winds.","Snow",3
+"100812356","-1.402501","54.87253","Northumbria Police","01/02/2019","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100812389","-1.40708","54.897139","Northumbria Police","01/02/2019","Sunderland","Slight","Snowing no high winds.","Frost or Ice",3
+"100812507","-1.481281","54.995663","Northumbria Police","01/02/2019","North Tyneside","Slight","Snowing no high winds.","Frost or Ice",3
+"100812524","-1.471635","54.840886","Northumbria Police","01/02/2019","Sunderland","Slight","Snowing no high winds.","Frost or Ice",3
+"100812633","-1.574205","55.07263","Northumbria Police","01/02/2019","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100812939","-1.443723","54.891418","Northumbria Police","01/02/2019","Sunderland","Slight","Snowing and high winds.","Snow",3
+"100823071","-1.63303","55.226119","Northumbria Police","02/02/2019","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100823844","-1.612751","54.979437","Northumbria Police","16/03/2019","Newcastle upon Tyne","Slight","Snowing and high winds.","Wet or Damp",3
+"100829141","-1.549317","55.043642","Northumbria Police","03/04/2019","North Tyneside","Slight","Snowing no high winds.","Frost or Ice",3
+"100835037","-2.493224","54.938981","Northumbria Police","09/03/2019","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100898405","-2.272321","54.891385","Northumbria Police","11/11/2019","Northumberland","Slight","Snowing no high winds.","Snow",3
+"110812491","-1.576316","54.878211","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Wet or Damp",3
+"110813169","-1.357346","54.83496","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Snow",3
+"110813176","-1.519016","54.823954","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Frost or Ice",3
+"110813202","-1.593998","54.79185","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Snow",3
+"110813225","-1.364161","54.739074","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Snow",3
+"110813237","-1.676877","54.656563","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Frost or Ice",3
+"110813581","-1.569495","54.610784","Durham Constabulary","29/01/2019","County Durham","Slight","Snowing no high winds.","Wet or Damp",3
+"110813984","-1.608863","54.69523","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Wet or Damp",3
+"170H10149","-1.221668","54.709253","Cleveland Police","01/02/2019","Hartlepool","Slight","Snowing no high winds.","Snow",3
+"170H10199","-1.300712","54.646234","Cleveland Police","17/01/2019","Hartlepool","Slight","Snowing no high winds.","Snow",3
+"170H10209","-1.221891","54.699207","Cleveland Police","01/02/2019","Hartlepool","Slight","Snowing no high winds.","Snow",3
+"170M10139","-1.27521","54.547309","Cleveland Police","31/01/2019","Middlesbrough","Slight","Snowing no high winds.","Wet or Damp",3
+"170M10169","-1.270829","54.54855","Cleveland Police","01/02/2019","Middlesbrough","Slight","Snowing no high winds.","Snow",3
+"170M20129","-1.195478","54.562749","Cleveland Police","01/02/2019","Middlesbrough","Slight","Snowing no high winds.","Snow",3
+"170S30209","-1.290929","54.513628","Cleveland Police","01/02/2019","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"170S40179","-1.409046","54.520931","Cleveland Police","01/02/2019","Stockton-on-Tees","Slight","Snowing and high winds.","Snow",3
+"100259171","-2.108978","54.992637","Northumbria Police","17/01/2018","Northumberland","Slight","Snowing and high winds.","Frost or Ice",3
+"100259174","-1.853726","55.369463","Northumbria Police","16/01/2018","Northumberland","Slight","Snowing and high winds.","Frost or Ice",3
+"100260240","-1.632205","54.970628","Northumbria Police","21/01/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100260301","-2.22781","55.646624","Northumbria Police","21/01/2018","Northumberland","Slight","Snowing and high winds.","Snow",3
+"100260425","-1.700933","54.992419","Northumbria Police","21/01/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100266810","-1.612407","54.972957","Northumbria Police","11/02/2018","Newcastle upon Tyne","Slight","Snowing and high winds.","Wet or Damp",3
+"100267774","-2.264934","55.164155","Northumbria Police","13/02/2018","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100271556","-1.71139","55.027202","Northumbria Police","26/02/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Wet or Damp",3
+"100272097","-1.439524","54.89741","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing no high winds.","Frost or Ice",3
+"100272143","-1.489018","54.852786","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100272354","-1.384149","54.918188","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing no high winds.","Wet or Damp",3
+"100272402","-1.618917","54.963407","Northumbria Police","28/02/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Frost or Ice",3
+"100272432","-1.563183","55.099674","Northumbria Police","28/02/2018","Northumberland","Slight","Snowing and high winds.","Snow",3
+"100272585","-1.455419","54.883104","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100272596","-1.593812","55.242628","Northumbria Police","01/03/2018","Northumberland","Slight","Snowing and high winds.","Snow",3
+"100272613","-1.41456","54.919983","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100272663","-2.021024","55.009228","Northumbria Police","01/03/2018","Northumberland","Slight","Snowing and high winds.","Snow",3
+"100272732","-1.502714","54.905602","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing and high winds.","Snow",3
+"100272750","-1.661542","54.96675","Northumbria Police","28/02/2018","Newcastle upon Tyne","Slight","Snowing and high winds.","Snow",3
+"100273038","-1.56341","55.203983","Northumbria Police","02/03/2018","Northumberland","Slight","Snowing no high winds.","Wet or Damp",3
+"100273267","-1.429316","54.924654","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100274406","-1.622996","55.006787","Northumbria Police","03/03/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100276628","-2.110164","55.717453","Northumbria Police","02/03/2018","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100277205","-1.696992","54.973925","Northumbria Police","17/03/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100277427","-1.438314","54.959698","Northumbria Police","17/03/2018","South Tyneside","Slight","Snowing and high winds.","Frost or Ice",3
+"100277475","-1.604351","55.001211","Northumbria Police","18/03/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Frost or Ice",3
+"100277572","-1.599365","54.991705","Northumbria Police","17/03/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100278173","-1.406222","54.919439","Northumbria Police","18/03/2018","Sunderland","Slight","Snowing and high winds.","Snow",3
+"100278432","-1.664052","54.929698","Northumbria Police","27/02/2018","Gateshead","Slight","Snowing no high winds.","Snow",3
+"100318297","-1.570484","55.14374","Northumbria Police","02/03/2018","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100351159","-1.663648","54.96707","Northumbria Police","15/12/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100351178","-1.573942","54.973358","Northumbria Police","15/12/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Frost or Ice",3
+"100352988","-1.679361","55.13597","Northumbria Police","15/12/2018","Northumberland","Slight","Snowing and high winds.","Frost or Ice",3
+"100355330","-1.674477","55.125138","Northumbria Police","15/12/2018","Northumberland","Slight","Snowing no high winds.","Snow",3
+"110263884","-1.803847","54.580681","Durham Constabulary","16/01/2018","County Durham","Slight","Snowing no high winds.","Wet or Damp",3
+"110264116","-1.675743","54.559368","Durham Constabulary","18/01/2018","Darlington","Slight","Snowing no high winds.","Frost or Ice",3
+"110268828","-1.647733","54.662467","Durham Constabulary","06/02/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110272675","-1.91905","54.547229","Durham Constabulary","13/02/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110272724","-1.838091","54.895466","Durham Constabulary","14/02/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110272736","-1.689416","54.847882","Durham Constabulary","14/02/2018","County Durham","Slight","Snowing and high winds.","Frost or Ice",3
+"110275113","-1.324567","54.757993","Durham Constabulary","27/02/2018","County Durham","Slight","Snowing and high winds.","Frost or Ice",3
+"110275254","-1.716856","54.863487","Durham Constabulary","27/02/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110275318","-1.640038","54.866573","Durham Constabulary","27/02/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110275527","-1.516917","54.64602","Durham Constabulary","27/02/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110275837","-1.328672","54.720209","Durham Constabulary","01/03/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110275951","-1.99849","54.608949","Durham Constabulary","01/03/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110276498","-1.593911","54.61555","Durham Constabulary","02/03/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110279979","-1.822515","54.84548","Durham Constabulary","16/03/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110283442","-1.900111","54.630791","Durham Constabulary","01/04/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110284657","-1.55961","54.535196","Durham Constabulary","17/03/2018","Darlington","Slight","Snowing no high winds.","Snow",3
+"110289179","-1.357764","54.772381","Durham Constabulary","01/03/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110343335","-1.352924","54.707409","Durham Constabulary","28/10/2018","County Durham","Slight","Snowing no high winds.","Frost or Ice",3
+"110808125","-1.365646","54.741436","Durham Constabulary","15/12/2018","County Durham","Slight","Snowing and high winds.","Frost or Ice",3
+"110816020","-1.574622","54.868815","Durham Constabulary","27/02/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"170H10058","-1.270804","54.637511","Cleveland Police","18/01/2018","Hartlepool","Slight","Snowing no high winds.","Frost or Ice",3
+"170L10128","-1.021275","54.553935","Cleveland Police","06/02/2018","Redcar and Cleveland","Slight","Snowing no high winds.","Snow",3
+"170L10208","-1.01155","54.557127","Cleveland Police","26/02/2018","Redcar and Cleveland","Slight","Snowing no high winds.","Dry",3
+"170L10278","-0.987308","54.536408","Cleveland Police","17/03/2018","Redcar and Cleveland","Slight","Snowing and high winds.","Snow",3
+"170L20238","-1.143005","54.557599","Cleveland Police","27/02/2018","Redcar and Cleveland","Slight","Snowing no high winds.","Wet or Damp",3
+"170M30408","-1.232822","54.520922","Cleveland Police","02/03/2018","Middlesbrough","Slight","Snowing no high winds.","Frost or Ice",3
+"170S10028","-1.435069","54.540584","Cleveland Police","18/01/2018","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"170S10048","-1.330474","54.577626","Cleveland Police","19/01/2018","Stockton-on-Tees","Slight","Snowing no high winds.","Frost or Ice",3
+"170S10058","-1.336077","54.574592","Cleveland Police","06/02/2018","Stockton-on-Tees","Slight","Snowing no high winds.","Wet or Damp",3
+"170S10268","-1.311148","54.562213","Cleveland Police","18/03/2018","Stockton-on-Tees","Slight","Snowing and high winds.","Snow",3
+"170S20078","-1.214988","54.617895","Cleveland Police","06/02/2018","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"170S40208","-1.342684","54.535049","Cleveland Police","27/02/2018","Stockton-on-Tees","Slight","Snowing no high winds.","Wet or Damp",3
+"100154073","-1.756477","55.01596","Northumbria Police","09/02/2017","Northumberland","Slight","Snowing no high winds.","Wet or Damp",3
+"100154376","-1.596573","55.103366","Northumbria Police","09/02/2017","Northumberland","Slight","Snowing no high winds.","Wet or Damp",3
+"100158881","-2.162248","55.1293","Northumbria Police","27/02/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100186784","-1.38333","54.911552","Northumbria Police","10/02/2017","Sunderland","Slight","Snowing no high winds.","Wet or Damp",3
+"100191874","-1.622771","55.029045","Northumbria Police","05/02/2017","Newcastle upon Tyne","Slight","Snowing no high winds.","Wet or Damp",3
+"100244756","-1.705735","54.966074","Northumbria Police","30/11/2017","Gateshead","Slight","Snowing no high winds.","Snow",3
+"100244802","-1.412112","54.987342","Northumbria Police","30/11/2017","South Tyneside","Slight","Snowing no high winds.","Snow",3
+"100244975","-1.609863","55.097002","Northumbria Police","01/12/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100245177","-1.430171","55.002111","Northumbria Police","30/11/2017","South Tyneside","Slight","Snowing no high winds.","Snow",3
+"100245198","-1.582475","54.941334","Northumbria Police","30/11/2017","Gateshead","Slight","Snowing no high winds.","Snow",3
+"100245216","-2.022192","55.000107","Northumbria Police","01/12/2017","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100246640","-2.194978","55.081204","Northumbria Police","01/12/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100247943","-1.845762","55.681071","Northumbria Police","11/12/2017","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100249726","-1.632037","55.124146","Northumbria Police","11/12/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100252877","-1.489075","54.918557","Northumbria Police","29/12/2017","Sunderland","Slight","Snowing no high winds.","Frost or Ice",3
+"100252879","-1.568562","55.080374","Northumbria Police","29/12/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100253105","-1.765796","55.273594","Northumbria Police","29/12/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100253117","-1.60466","55.15888","Northumbria Police","29/12/2017","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100253725","-1.558513","54.90712","Northumbria Police","29/12/2017","Gateshead","Slight","Snowing no high winds.","Snow",3
+"110147315","-1.517895","54.715294","Durham Constabulary","01/01/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"110147559","-1.375887","54.838103","Durham Constabulary","01/01/2017","County Durham","Slight","Snowing and high winds.","Frost or Ice",3
+"110160679","-1.714448","54.864766","Durham Constabulary","09/02/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"110161217","-1.323912","54.714242","Durham Constabulary","10/02/2017","County Durham","Slight","Snowing no high winds.","Wet or Damp",3
+"110161272","-1.975243","54.518405","Durham Constabulary","12/02/2017","County Durham","Slight","Snowing and high winds.","Snow",3
+"110161714","-2.008502","54.520466","Durham Constabulary","10/02/2017","County Durham","Slight","Snowing and high winds.","Wet or Damp",3
+"110163231","-1.318643","54.761887","Durham Constabulary","25/02/2017","County Durham","Slight","Snowing no high winds.","Wet or Damp",3
+"110253500","-1.589131","54.719519","Durham Constabulary","29/11/2017","County Durham","Slight","Snowing no high winds.","Wet or Damp",3
+"110253554","-1.816201","54.867694","Durham Constabulary","30/11/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"110253612","-1.743948","54.851137","Durham Constabulary","30/11/2017","County Durham","Slight","Snowing no high winds.","Frost or Ice",3
+"110253656","-1.605063","54.76871","Durham Constabulary","30/11/2017","County Durham","Slight","Snowing and high winds.","Snow",3
+"110253693","-1.454595","54.696711","Durham Constabulary","30/11/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"110253746","-1.594663","54.784456","Durham Constabulary","30/11/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"110255229","-1.561992","54.527845","Durham Constabulary","30/11/2017","Darlington","Slight","Snowing no high winds.","Wet or Damp",3
+"110261965","-1.398227","54.798497","Durham Constabulary","29/12/2017","County Durham","Slight","Snowing no high winds.","Frost or Ice",3
+"110261999","-1.363168","54.813289","Durham Constabulary","30/12/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"170H10117","-1.239254","54.647787","Cleveland Police","10/02/2017","Hartlepool","Slight","Snowing and high winds.","Wet or Damp",3
+"170H11097","-1.238344","54.708083","Cleveland Police","30/11/2017","Hartlepool","Slight","Snowing no high winds.","Frost or Ice",3
+"170L10077","-0.989478","54.527403","Cleveland Police","13/01/2017","Redcar and Cleveland","Slight","Snowing no high winds.","Snow",3
+"170M12217","-1.247821","54.567273","Cleveland Police","10/12/2017","Middlesbrough","Slight","Snowing no high winds.","Snow",3
+"170M12477","-1.256207","54.542431","Cleveland Police","29/12/2017","Middlesbrough","Slight","Snowing no high winds.","Snow",3
+"170S12367","-1.316245","54.55241","Cleveland Police","30/11/2017","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"170S12457","-1.369642","54.559709","Cleveland Police","10/12/2017","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"100011816","-1.446329","54.864139","Northumbria Police","14/01/2016","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100012916","-1.447644","54.927537","Northumbria Police","14/01/2016","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100015016","-1.563214","54.901416","Northumbria Police","14/01/2016","Gateshead","Slight","Snowing and high winds.","Snow",3
+"100015616","-2.126344","55.105847","Northumbria Police","08/01/2016","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100017316","-1.425647","54.98955","Northumbria Police","14/01/2016","South Tyneside","Slight","Snowing and high winds.","Snow",3
+"100022316","-1.448235","54.925356","Northumbria Police","14/01/2016","Sunderland","Slight","Snowing no high winds.","Wet or Damp",3
+"100023216","-2.237721","55.26131","Northumbria Police","08/01/2016","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100023316","-2.246276","55.265508","Northumbria Police","08/01/2016","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100026716","-1.476662","54.852267","Northumbria Police","14/01/2016","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100062198","-1.405791","54.852373","Northumbria Police","27/04/2016","Sunderland","Slight","Snowing no high winds.","Wet or Damp",3
+"100081016","-1.725069","55.330469","Northumbria Police","02/02/2016","Northumberland","Slight","Snowing no high winds.","Dry",3
+"100087216","-1.580258","54.941906","Northumbria Police","13/02/2016","Gateshead","Slight","Snowing no high winds.","Snow",3
+"100087755","-1.635436","55.064794","Northumbria Police","20/07/2016","North Tyneside","Slight","Snowing no high winds.","Wet or Damp",3
+"100091616","-1.748719","55.521134","Northumbria Police","14/02/2016","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100098016","-2.094369","55.589807","Northumbria Police","13/02/2016","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100126416","-2.031036","55.031673","Northumbria Police","13/02/2016","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100144716","-1.54225","54.954063","Northumbria Police","14/01/2016","Gateshead","Slight","Snowing and high winds.","Snow",3
+"10P079016","-1.917861","54.978243","Northumbria Police","13/02/2016","Northumberland","Slight","Snowing no high winds.","Wet or Damp",3
+"110060643","-1.834646","54.853058","Durham Constabulary","15/04/2016","County Durham","Slight","Snowing no high winds.","Wet or Damp",3
+"11SB03666","-2.264775","54.780279","Durham Constabulary","07/02/2016","County Durham","Slight","Snowing and high winds.","Snow",3
+"11SB04296","-1.750863","54.731774","Durham Constabulary","13/02/2016","County Durham","Slight","Snowing no high winds.","Snow",3
+"11SJ00196","-1.502849","54.519385","Durham Constabulary","04/01/2016","Darlington","Slight","Snowing and high winds.","Wet or Damp",3
+"11SJ05186","-1.666887","54.598369","Durham Constabulary","14/02/2016","Darlington","Slight","Snowing no high winds.","Wet or Damp",3
+"11SK01066","-1.444323","54.716495","Durham Constabulary","13/01/2016","County Durham","Slight","Snowing no high winds.","Snow",3
+"170L10076","-1.068535","54.533662","Cleveland Police","14/01/2016","Redcar and Cleveland","Slight","Snowing no high winds.","Snow",3
+"170L10266","-0.96341","54.525231","Cleveland Police","15/02/2016","Redcar and Cleveland","Slight","Snowing and high winds.","Frost or Ice",3
+"170L11336","-1.000516","54.567946","Cleveland Police","05/11/2016","Redcar and Cleveland","Slight","Snowing no high winds.","Wet or Damp",3
+"170M30646","-1.207128","54.509018","Cleveland Police","14/02/2016","Middlesbrough","Slight","Snowing and high winds.","Snow",3
+"170S10396","-1.349811","54.590539","Cleveland Police","15/02/2016","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"170S10426","-1.413669","54.584781","Cleveland Police","15/02/2016","Stockton-on-Tees","Slight","Snowing no high winds.","Frost or Ice",3
+"100917573","-1.807653","55.314786","Northumbria Police","10/01/2020","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100918846","-1.514656","54.997993","Northumbria Police","13/01/2020","North Tyneside","Slight","Other.","Frost or Ice",3
+"100918863","-1.880238","55.477587","Northumbria Police","13/01/2020","Northumberland","Slight","Other.","Frost or Ice",3
+"100918874","-1.783563","55.282783","Northumbria Police","13/01/2020","Northumberland","Slight","Other.","Frost or Ice",3
+"100925419","-1.717587","55.408914","Northumbria Police","19/01/2020","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100931527","-2.146891","55.149933","Northumbria Police","14/02/2020","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100933183","-2.143474","55.041512","Northumbria Police","24/02/2020","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100933243","-1.604614","55.003117","Northumbria Police","24/02/2020","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100933285","-1.621872","55.041434","Northumbria Police","24/02/2020","North Tyneside","Slight","Snowing no high winds.","Snow",3
+"100933556","-1.527834","54.995277","Northumbria Police","24/02/2020","North Tyneside","Slight","Snowing and high winds.","Frost or Ice",3
+"100934415","-1.48854","55.019831","Northumbria Police","25/02/2020","North Tyneside","Slight","Fine no high winds.","Frost or Ice",3
+"100934621","-1.594526","55.084147","Northumbria Police","24/02/2020","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100936005","-1.614097","55.088497","Northumbria Police","03/03/2020","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"101010084","-1.590876","55.031881","Northumbria Police","25/12/2020","North Tyneside","Slight","Fine no high winds.","Frost or Ice",3
+"101010812","-1.717194","55.410917","Northumbria Police","30/12/2020","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"101011046","-1.637466","54.939578","Northumbria Police","30/12/2020","Gateshead","Slight","Snowing no high winds.","Frost or Ice",3
+"101011057","-1.889352","55.437305","Northumbria Police","30/12/2020","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"101011278","-1.606812","54.974808","Northumbria Police","30/12/2020","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"101027173","-1.557521","55.129883","Northumbria Police","31/12/2020","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"110921350","-1.479695","54.74915","Durham Constabulary","20/01/2020","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110927234","-1.596717","54.624636","Durham Constabulary","05/02/2020","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110933841","-1.435808","54.739096","Durham Constabulary","24/02/2020","County Durham","Slight","Snowing no high winds.","Snow",3
+"110933868","-1.588788","54.805725","Durham Constabulary","24/02/2020","County Durham","Slight","Snowing no high winds.","Snow",3
+"110935169","-1.500192","54.746217","Durham Constabulary","26/02/2020","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110937937","-1.352805","54.788953","Durham Constabulary","24/02/2020","County Durham","Slight","Snowing and high winds.","Snow",3
+"110937992","-1.518029","54.643706","Durham Constabulary","25/02/2020","County Durham","Slight","Snowing no high winds.","Snow",3
+"110938868","-1.59018","54.521212","Durham Constabulary","05/03/2020","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"110939031","-1.572594","54.517206","Durham Constabulary","26/02/2020","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"110940831","-1.989423","54.831869","Durham Constabulary","19/02/2020","County Durham","Slight","Other.","Frost or Ice",3
+"170H10160","-1.292209","54.702963","Cleveland Police","24/02/2020","Hartlepool","Slight","Snowing and high winds.","Snow",3
+"170H10170","-1.234943","54.687535","Cleveland Police","26/02/2020","Hartlepool","Slight","Fine no high winds.","Frost or Ice",3
+"170M20360","-1.189734","54.54825","Cleveland Police","06/02/2020","Middlesbrough","Slight","Fine no high winds.","Frost or Ice",3
+"170M20660","-1.199055","54.566503","Cleveland Police","27/03/2020","Middlesbrough","Slight","Fine no high winds.","Frost or Ice",3
+"170S20580","-1.245634","54.597815","Cleveland Police","27/03/2020","Stockton-on-Tees","Slight","Fog or mist.","Frost or Ice",3
+"100353289","-1.763927","55.604523","Northumbria Police","03/01/2019","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100355217","-1.407386","54.852865","Northumbria Police","17/01/2019","Sunderland","Slight","Snowing and high winds.","Snow",3
+"100355238","-1.699136","55.35324","Northumbria Police","17/01/2019","Northumberland","Slight","Other.","Frost or Ice",3
+"100809773","-1.549409","55.043759","Northumbria Police","18/01/2019","North Tyneside","Slight","Fine and high winds.","Frost or Ice",3
+"100809987","-2.042989","55.771495","Northumbria Police","22/01/2019","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100811767","-1.51906","54.943383","Northumbria Police","30/01/2019","Gateshead","Slight","Unkown.","Frost or Ice",3
+"100812356","-1.402501","54.87253","Northumbria Police","01/02/2019","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100812389","-1.40708","54.897139","Northumbria Police","01/02/2019","Sunderland","Slight","Snowing no high winds.","Frost or Ice",3
+"100812507","-1.481281","54.995663","Northumbria Police","01/02/2019","North Tyneside","Slight","Snowing no high winds.","Frost or Ice",3
+"100812524","-1.471635","54.840886","Northumbria Police","01/02/2019","Sunderland","Slight","Snowing no high winds.","Frost or Ice",3
+"100812633","-1.574205","55.07263","Northumbria Police","01/02/2019","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100812935","-1.634237","55.224739","Northumbria Police","02/02/2019","Northumberland","Slight","Fine no high winds.","Snow",3
+"100812939","-1.443723","54.891418","Northumbria Police","01/02/2019","Sunderland","Slight","Snowing and high winds.","Snow",3
+"100813429","-1.908951","55.000803","Northumbria Police","05/02/2019","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100822096","-2.008159","55.542509","Northumbria Police","10/03/2019","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100823071","-1.63303","55.226119","Northumbria Police","02/02/2019","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100828590","-1.78853","55.296136","Northumbria Police","02/04/2019","Northumberland","Slight","Fine no high winds.","Snow",3
+"100829141","-1.549317","55.043642","Northumbria Police","03/04/2019","North Tyneside","Slight","Snowing no high winds.","Frost or Ice",3
+"100835037","-2.493224","54.938981","Northumbria Police","09/03/2019","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100896552","-2.408894","54.993076","Northumbria Police","08/11/2019","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100898405","-2.272321","54.891385","Northumbria Police","11/11/2019","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100904103","-1.734656","54.971667","Northumbria Police","30/11/2019","Gateshead","Slight","Fine no high winds.","Frost or Ice",3
+"100904363","-1.891671","55.009029","Northumbria Police","29/11/2019","Northumberland","Slight","Other.","Frost or Ice",3
+"100904640","-1.559916","55.170229","Northumbria Police","29/11/2019","Northumberland","Slight","Other.","Frost or Ice",3
+"100905725","-1.518481","54.973512","Northumbria Police","01/12/2019","South Tyneside","Slight","Fine and high winds.","Frost or Ice",3
+"100910681","-1.758833","54.995962","Northumbria Police","17/12/2019","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"100910731","-1.566923","54.982554","Northumbria Police","16/12/2019","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"100914589","-2.147297","55.149168","Northumbria Police","31/12/2019","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"110811835","-1.674963","54.855789","Durham Constabulary","23/01/2019","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110812336","-1.705381","54.866847","Durham Constabulary","22/01/2019","County Durham","Slight","Other.","Frost or Ice",3
+"110812731","-1.521433","54.519828","Durham Constabulary","23/01/2019","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"110813169","-1.357346","54.83496","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Snow",3
+"110813176","-1.519016","54.823954","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Frost or Ice",3
+"110813202","-1.593998","54.79185","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Snow",3
+"110813225","-1.364161","54.739074","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Snow",3
+"110813237","-1.676877","54.656563","Durham Constabulary","01/02/2019","County Durham","Slight","Snowing no high winds.","Frost or Ice",3
+"110813842","-1.549117","54.779102","Durham Constabulary","03/02/2019","County Durham","Slight","Fine no high winds.","Snow",3
+"110814287","-1.367579","54.737996","Durham Constabulary","31/01/2019","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110908869","-1.732198","54.68966","Durham Constabulary","02/12/2019","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110910406","-1.804748","54.793556","Durham Constabulary","17/12/2019","County Durham","Slight","Other.","Frost or Ice",3
+"170H10129","-1.206234","54.658673","Cleveland Police","23/01/2019","Hartlepool","Slight","Fine no high winds.","Frost or Ice",3
+"170H10149","-1.221668","54.709253","Cleveland Police","01/02/2019","Hartlepool","Slight","Snowing no high winds.","Snow",3
+"170H10199","-1.300712","54.646234","Cleveland Police","17/01/2019","Hartlepool","Slight","Snowing no high winds.","Snow",3
+"170H10209","-1.221891","54.699207","Cleveland Police","01/02/2019","Hartlepool","Slight","Snowing no high winds.","Snow",3
+"170L20129","-1.124593","54.563174","Cleveland Police","03/02/2019","Redcar and Cleveland","Slight","Fine no high winds.","Frost or Ice",3
+"170M10169","-1.270829","54.54855","Cleveland Police","01/02/2019","Middlesbrough","Slight","Snowing no high winds.","Snow",3
+"170M20129","-1.195478","54.562749","Cleveland Police","01/02/2019","Middlesbrough","Slight","Snowing no high winds.","Snow",3
+"170M21919","-1.209023","54.566892","Cleveland Police","14/12/2019","Middlesbrough","Slight","Fine no high winds.","Snow",3
+"170S30209","-1.290929","54.513628","Cleveland Police","01/02/2019","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"170S40179","-1.409046","54.520931","Cleveland Police","01/02/2019","Stockton-on-Tees","Slight","Snowing and high winds.","Snow",3
+"100254554","-1.546765","55.151778","Northumbria Police","05/01/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100254896","-1.790115","54.997961","Northumbria Police","07/01/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100255209","-1.863778","55.299873","Northumbria Police","07/01/2018","Northumberland","Slight","Other.","Frost or Ice",3
+"100255283","-1.575197","55.055776","Northumbria Police","05/01/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100259171","-2.108978","54.992637","Northumbria Police","17/01/2018","Northumberland","Slight","Snowing and high winds.","Frost or Ice",3
+"100259174","-1.853726","55.369463","Northumbria Police","16/01/2018","Northumberland","Slight","Snowing and high winds.","Frost or Ice",3
+"100259491","-1.765748","54.921956","Northumbria Police","18/01/2018","Gateshead","Slight","Other.","Snow",3
+"100259685","-1.407403","54.871907","Northumbria Police","18/01/2018","Sunderland","Slight","Other.","Snow",3
+"100259691","-1.544982","55.172025","Northumbria Police","18/01/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100260039","-1.551129","54.900713","Northumbria Police","19/01/2018","Sunderland","Slight","Other.","Frost or Ice",3
+"100260046","-1.469544","55.015733","Northumbria Police","19/01/2018","North Tyneside","Slight","Fine no high winds.","Frost or Ice",3
+"100260055","-1.740226","54.926326","Northumbria Police","19/01/2018","Gateshead","Slight","Fine no high winds.","Frost or Ice",3
+"100260240","-1.632205","54.970628","Northumbria Police","21/01/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100260301","-2.22781","55.646624","Northumbria Police","21/01/2018","Northumberland","Slight","Snowing and high winds.","Snow",3
+"100260425","-1.700933","54.992419","Northumbria Police","21/01/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100262001","-1.971612","54.947403","Northumbria Police","25/01/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100263837","-1.583041","55.081314","Northumbria Police","21/01/2018","Northumberland","Slight","Other.","Frost or Ice",3
+"100264499","-1.393883","54.850722","Northumbria Police","04/02/2018","Sunderland","Slight","Raining no high winds.","Snow",3
+"100266683","-2.060135","55.065296","Northumbria Police","11/02/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100267774","-2.264934","55.164155","Northumbria Police","13/02/2018","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100267810","-1.618334","54.912723","Northumbria Police","12/02/2018","Gateshead","Slight","Fine no high winds.","Frost or Ice",3
+"100272097","-1.439524","54.89741","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing no high winds.","Frost or Ice",3
+"100272143","-1.489018","54.852786","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100272305","-1.485787","55.000202","Northumbria Police","27/02/2018","North Tyneside","Slight","Fine no high winds.","Snow",3
+"100272402","-1.618917","54.963407","Northumbria Police","28/02/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Frost or Ice",3
+"100272432","-1.563183","55.099674","Northumbria Police","28/02/2018","Northumberland","Slight","Snowing and high winds.","Snow",3
+"100272585","-1.455419","54.883104","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100272596","-1.593812","55.242628","Northumbria Police","01/03/2018","Northumberland","Slight","Snowing and high winds.","Snow",3
+"100272613","-1.41456","54.919983","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100272663","-2.021024","55.009228","Northumbria Police","01/03/2018","Northumberland","Slight","Snowing and high winds.","Snow",3
+"100272667","-1.652351","55.005904","Northumbria Police","28/02/2018","Newcastle upon Tyne","Slight","Unkown.","Snow",3
+"100272732","-1.502714","54.905602","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing and high winds.","Snow",3
+"100272750","-1.661542","54.96675","Northumbria Police","28/02/2018","Newcastle upon Tyne","Slight","Snowing and high winds.","Snow",3
+"100273267","-1.429316","54.924654","Northumbria Police","27/02/2018","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100274406","-1.622996","55.006787","Northumbria Police","03/03/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100274795","-1.628497","54.91359","Northumbria Police","09/03/2018","Gateshead","Slight","Fine no high winds.","Frost or Ice",3
+"100276628","-2.110164","55.717453","Northumbria Police","02/03/2018","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100277205","-1.696992","54.973925","Northumbria Police","17/03/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100277427","-1.438314","54.959698","Northumbria Police","17/03/2018","South Tyneside","Slight","Snowing and high winds.","Frost or Ice",3
+"100277475","-1.604351","55.001211","Northumbria Police","18/03/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Frost or Ice",3
+"100277572","-1.599365","54.991705","Northumbria Police","17/03/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100278173","-1.406222","54.919439","Northumbria Police","18/03/2018","Sunderland","Slight","Snowing and high winds.","Snow",3
+"100278432","-1.664052","54.929698","Northumbria Police","27/02/2018","Gateshead","Slight","Snowing no high winds.","Snow",3
+"100318297","-1.570484","55.14374","Northumbria Police","02/03/2018","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100339403","-1.562689","54.90461","Northumbria Police","29/10/2018","Gateshead","Slight","Raining no high winds.","Frost or Ice",3
+"100341073","-1.614154","55.201198","Northumbria Police","28/10/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100343508","-1.559495","54.898551","Northumbria Police","29/10/2018","Gateshead","Slight","Raining no high winds.","Frost or Ice",3
+"100345713","-1.950385","54.904738","Northumbria Police","21/11/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100346034","-1.492177","54.902656","Northumbria Police","21/11/2018","Sunderland","Slight","Raining no high winds.","Frost or Ice",3
+"100346851","-2.089967","55.199212","Northumbria Police","26/11/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100346863","-2.142795","55.224061","Northumbria Police","26/11/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100349408","-1.814726","55.338626","Northumbria Police","04/12/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100349807","-1.657143","54.990183","Northumbria Police","10/12/2018","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"100351090","-1.575261","55.141511","Northumbria Police","14/12/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100351159","-1.663648","54.96707","Northumbria Police","15/12/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Snow",3
+"100351178","-1.573942","54.973358","Northumbria Police","15/12/2018","Newcastle upon Tyne","Slight","Snowing no high winds.","Frost or Ice",3
+"100351729","-1.724448","55.355645","Northumbria Police","19/12/2018","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100352923","-1.661497","54.994643","Northumbria Police","28/12/2018","Newcastle upon Tyne","Slight","Other.","Frost or Ice",3
+"100352988","-1.679361","55.13597","Northumbria Police","15/12/2018","Northumberland","Slight","Snowing and high winds.","Frost or Ice",3
+"100355330","-1.674477","55.125138","Northumbria Police","15/12/2018","Northumberland","Slight","Snowing no high winds.","Snow",3
+"110262795","-1.582094","54.854499","Durham Constabulary","07/01/2018","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110262832","-1.558071","54.528882","Durham Constabulary","05/01/2018","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"110263167","-1.667151","54.598482","Durham Constabulary","06/01/2018","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"110263360","-1.717721","54.634009","Durham Constabulary","08/01/2018","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110263455","-1.752174","54.715889","Durham Constabulary","09/01/2018","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110264106","-1.676812","54.744973","Durham Constabulary","17/01/2018","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110264116","-1.675743","54.559368","Durham Constabulary","18/01/2018","Darlington","Slight","Snowing no high winds.","Frost or Ice",3
+"110264827","-1.598659","54.701092","Durham Constabulary","20/01/2018","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110265207","-1.858557","54.870087","Durham Constabulary","18/01/2018","County Durham","Slight","Fine and high winds.","Snow",3
+"110265414","-1.813683","54.903707","Durham Constabulary","31/01/2018","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110265443","-1.735342","54.895502","Durham Constabulary","17/01/2018","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110268828","-1.647733","54.662467","Durham Constabulary","06/02/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110272675","-1.91905","54.547229","Durham Constabulary","13/02/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110272724","-1.838091","54.895466","Durham Constabulary","14/02/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110272736","-1.689416","54.847882","Durham Constabulary","14/02/2018","County Durham","Slight","Snowing and high winds.","Frost or Ice",3
+"110275113","-1.324567","54.757993","Durham Constabulary","27/02/2018","County Durham","Slight","Snowing and high winds.","Frost or Ice",3
+"110275254","-1.716856","54.863487","Durham Constabulary","27/02/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110275318","-1.640038","54.866573","Durham Constabulary","27/02/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110275527","-1.516917","54.64602","Durham Constabulary","27/02/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110275683","-1.622654","54.81936","Durham Constabulary","05/03/2018","County Durham","Slight","Fine no high winds.","Snow",3
+"110275837","-1.328672","54.720209","Durham Constabulary","01/03/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110275951","-1.99849","54.608949","Durham Constabulary","01/03/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110276498","-1.593911","54.61555","Durham Constabulary","02/03/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110276561","-1.399068","54.797351","Durham Constabulary","03/03/2018","County Durham","Slight","Fine no high winds.","Snow",3
+"110276581","-1.489077","54.792604","Durham Constabulary","02/03/2018","County Durham","Slight","Fine no high winds.","Snow",3
+"110279979","-1.822515","54.84548","Durham Constabulary","16/03/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110283294","-1.607866","54.880797","Durham Constabulary","05/04/2018","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110283442","-1.900111","54.630791","Durham Constabulary","01/04/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"110284657","-1.55961","54.535196","Durham Constabulary","17/03/2018","Darlington","Slight","Snowing no high winds.","Snow",3
+"110289179","-1.357764","54.772381","Durham Constabulary","01/03/2018","County Durham","Slight","Snowing and high winds.","Snow",3
+"110343335","-1.352924","54.707409","Durham Constabulary","28/10/2018","County Durham","Slight","Snowing no high winds.","Frost or Ice",3
+"110803520","-1.744041","54.829219","Durham Constabulary","22/11/2018","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110804206","-1.600341","54.880441","Durham Constabulary","04/12/2018","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110805493","-1.769087","54.536243","Durham Constabulary","01/12/2018","County Durham","Slight","Raining and high winds.","Frost or Ice",3
+"110807736","-1.894783","54.732686","Durham Constabulary","16/12/2018","County Durham","Slight","Raining no high winds.","Frost or Ice",3
+"110808125","-1.365646","54.741436","Durham Constabulary","15/12/2018","County Durham","Slight","Snowing and high winds.","Frost or Ice",3
+"110810252","-1.629571","54.700912","Durham Constabulary","25/12/2018","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110813662","-1.795602","54.71358","Durham Constabulary","17/12/2018","County Durham","Slight","Raining no high winds.","Frost or Ice",3
+"110816020","-1.574622","54.868815","Durham Constabulary","27/02/2018","County Durham","Slight","Snowing no high winds.","Snow",3
+"170H10058","-1.270804","54.637511","Cleveland Police","18/01/2018","Hartlepool","Slight","Snowing no high winds.","Frost or Ice",3
+"170L10038","-0.865709","54.502796","Cleveland Police","05/01/2018","Redcar and Cleveland","Slight","Fine no high winds.","Frost or Ice",3
+"170L10128","-1.021275","54.553935","Cleveland Police","06/02/2018","Redcar and Cleveland","Slight","Snowing no high winds.","Snow",3
+"170L10198","-0.941421","54.568631","Cleveland Police","16/02/2018","Redcar and Cleveland","Slight","Fine no high winds.","Frost or Ice",3
+"170L10278","-0.987308","54.536408","Cleveland Police","17/03/2018","Redcar and Cleveland","Slight","Snowing and high winds.","Snow",3
+"170L20028","-1.183481","54.578037","Cleveland Police","02/01/2018","Redcar and Cleveland","Slight","Fine no high winds.","Frost or Ice",3
+"170L30218","-1.059091","54.598406","Cleveland Police","23/02/2018","Redcar and Cleveland","Slight","Fine no high winds.","Frost or Ice",3
+"170M20488","-1.214576","54.570873","Cleveland Police","15/03/2018","Middlesbrough","Slight","Fine no high winds.","Frost or Ice",3
+"170M30408","-1.232822","54.520922","Cleveland Police","02/03/2018","Middlesbrough","Slight","Snowing no high winds.","Frost or Ice",3
+"170S10028","-1.435069","54.540584","Cleveland Police","18/01/2018","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"170S10048","-1.330474","54.577626","Cleveland Police","19/01/2018","Stockton-on-Tees","Slight","Snowing no high winds.","Frost or Ice",3
+"170S10268","-1.311148","54.562213","Cleveland Police","18/03/2018","Stockton-on-Tees","Slight","Snowing and high winds.","Snow",3
+"170S20078","-1.214988","54.617895","Cleveland Police","06/02/2018","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"100144757","-1.834192","55.34719","Northumbria Police","02/01/2017","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100145320","-1.458717","54.923135","Northumbria Police","14/01/2017","Sunderland","Slight","Fine no high winds.","Frost or Ice",3
+"100148449","-1.552737","54.951383","Northumbria Police","23/01/2017","Gateshead","Slight","Fine no high winds.","Frost or Ice",3
+"100158881","-2.162248","55.1293","Northumbria Police","27/02/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100166238","-2.158908","55.228076","Northumbria Police","21/03/2017","Northumberland","Slight","Fine and high winds.","Frost or Ice",3
+"100180188","-1.723815","55.146933","Northumbria Police","01/01/2017","Northumberland","Slight","Other.","Frost or Ice",3
+"100182586","-1.494172","54.839211","Northumbria Police","05/01/2017","Sunderland","Slight","Fine no high winds.","Frost or Ice",3
+"100183334","-1.617456","55.007318","Northumbria Police","13/01/2017","Newcastle upon Tyne","Slight","Other.","Snow",3
+"100184426","-1.581023","55.040565","Northumbria Police","29/01/2017","North Tyneside","Slight","Fine no high winds.","Frost or Ice",3
+"100240430","-2.586182","55.220093","Northumbria Police","17/11/2017","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100242983","-1.636561","54.977857","Northumbria Police","25/11/2017","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"100243345","-1.624497","54.951167","Northumbria Police","25/11/2017","Gateshead","Slight","Fine no high winds.","Frost or Ice",3
+"100244756","-1.705735","54.966074","Northumbria Police","30/11/2017","Gateshead","Slight","Snowing no high winds.","Snow",3
+"100244764","-1.636735","55.178254","Northumbria Police","30/11/2017","Northumberland","Slight","Fine no high winds.","Snow",3
+"100244802","-1.412112","54.987342","Northumbria Police","30/11/2017","South Tyneside","Slight","Snowing no high winds.","Snow",3
+"100244938","-1.397468","54.910131","Northumbria Police","30/11/2017","Sunderland","Slight","Other.","Frost or Ice",3
+"100244975","-1.609863","55.097002","Northumbria Police","01/12/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100245177","-1.430171","55.002111","Northumbria Police","30/11/2017","South Tyneside","Slight","Snowing no high winds.","Snow",3
+"100245198","-1.582475","54.941334","Northumbria Police","30/11/2017","Gateshead","Slight","Snowing no high winds.","Snow",3
+"100245216","-2.022192","55.000107","Northumbria Police","01/12/2017","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100245341","-1.466153","55.040259","Northumbria Police","01/12/2017","North Tyneside","Slight","Other.","Frost or Ice",3
+"100246608","-1.381071","54.929675","Northumbria Police","04/12/2017","Sunderland","Slight","Other.","Frost or Ice",3
+"100246640","-2.194978","55.081204","Northumbria Police","01/12/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100247943","-1.845762","55.681071","Northumbria Police","11/12/2017","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100248317","-1.637194","54.90047","Northumbria Police","12/12/2017","Gateshead","Slight","Other.","Snow",3
+"100248391","-1.596294","55.087505","Northumbria Police","12/12/2017","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100248971","-1.603864","54.951965","Northumbria Police","12/12/2017","Gateshead","Slight","Unkown.","Frost or Ice",3
+"100248974","-1.461251","55.041684","Northumbria Police","13/12/2017","North Tyneside","Slight","Other.","Frost or Ice",3
+"100249715","-1.764691","55.564343","Northumbria Police","12/12/2017","Northumberland","Slight","Raining no high winds.","Frost or Ice",3
+"100249722","-1.662924","55.102246","Northumbria Police","16/12/2017","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100249724","-1.778685","55.004321","Northumbria Police","16/12/2017","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100249726","-1.632037","55.124146","Northumbria Police","11/12/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100249742","-1.529744","55.107386","Northumbria Police","13/12/2017","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100249760","-1.638476","54.989122","Northumbria Police","13/12/2017","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"100249809","-1.739144","54.985516","Northumbria Police","15/12/2017","Newcastle upon Tyne","Slight","Other.","Frost or Ice",3
+"100250014","-1.991257","55.143453","Northumbria Police","17/12/2017","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100250203","-1.559678","54.883275","Northumbria Police","17/12/2017","Gateshead","Slight","Raining no high winds.","Frost or Ice",3
+"100251922","-1.462809","54.998944","Northumbria Police","21/12/2017","North Tyneside","Slight","Fine no high winds.","Frost or Ice",3
+"100252044","-1.761221","55.020364","Northumbria Police","27/12/2017","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100252665","-1.5544","54.977458","Northumbria Police","28/12/2017","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"100252854","-1.662283","54.986612","Northumbria Police","29/12/2017","Newcastle upon Tyne","Slight","Fine no high winds.","Snow",3
+"100252877","-1.489075","54.918557","Northumbria Police","29/12/2017","Sunderland","Slight","Snowing no high winds.","Frost or Ice",3
+"100252879","-1.568562","55.080374","Northumbria Police","29/12/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100253105","-1.765796","55.273594","Northumbria Police","29/12/2017","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100253117","-1.60466","55.15888","Northumbria Police","29/12/2017","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100253725","-1.558513","54.90712","Northumbria Police","29/12/2017","Gateshead","Slight","Snowing no high winds.","Snow",3
+"100266113","-2.307232","54.828577","Northumbria Police","01/12/2017","Northumberland","Slight","Fine no high winds.","Snow",3
+"110147315","-1.517895","54.715294","Durham Constabulary","01/01/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"110147559","-1.375887","54.838103","Durham Constabulary","01/01/2017","County Durham","Slight","Snowing and high winds.","Frost or Ice",3
+"110147765","-1.799947","54.723337","Durham Constabulary","02/01/2017","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110148279","-1.77896","54.822709","Durham Constabulary","05/01/2017","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110149545","-1.710555","54.650474","Durham Constabulary","12/01/2017","County Durham","Slight","Other.","Frost or Ice",3
+"110151450","-1.538275","54.514052","Durham Constabulary","14/01/2017","Darlington","Slight","Fine and high winds.","Frost or Ice",3
+"110156120","-1.78472","54.866169","Durham Constabulary","27/01/2017","County Durham","Slight","Fog or mist.","Frost or Ice",3
+"110160679","-1.714448","54.864766","Durham Constabulary","09/02/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"110161272","-1.975243","54.518405","Durham Constabulary","12/02/2017","County Durham","Slight","Snowing and high winds.","Snow",3
+"110171071","-1.546556","54.59199","Durham Constabulary","21/03/2017","Darlington","Slight","Fine and high winds.","Frost or Ice",3
+"110251524","-1.819663","54.870485","Durham Constabulary","30/11/2017","County Durham","Slight","Fine no high winds.","Snow",3
+"110253467","-1.663955","54.597503","Durham Constabulary","29/11/2017","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"110253554","-1.816201","54.867694","Durham Constabulary","30/11/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"110253612","-1.743948","54.851137","Durham Constabulary","30/11/2017","County Durham","Slight","Snowing no high winds.","Frost or Ice",3
+"110253656","-1.605063","54.76871","Durham Constabulary","30/11/2017","County Durham","Slight","Snowing and high winds.","Snow",3
+"110253693","-1.454595","54.696711","Durham Constabulary","30/11/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"110253746","-1.594663","54.784456","Durham Constabulary","30/11/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"110258074","-2.183253","54.654282","Durham Constabulary","08/12/2017","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110258228","-1.35389","54.785274","Durham Constabulary","09/12/2017","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110258424","-1.384958","54.819081","Durham Constabulary","10/12/2017","County Durham","Slight","Other.","Frost or Ice",3
+"110259443","-1.558488","54.860957","Durham Constabulary","12/12/2017","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110259636","-1.562677","54.864001","Durham Constabulary","13/12/2017","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110259956","-1.454627","54.75223","Durham Constabulary","15/12/2017","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110260444","-1.408746","54.83444","Durham Constabulary","16/12/2017","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110261134","-1.582236","54.796887","Durham Constabulary","18/12/2017","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110261745","-1.682054","54.898807","Durham Constabulary","29/12/2017","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110261965","-1.398227","54.798497","Durham Constabulary","29/12/2017","County Durham","Slight","Snowing no high winds.","Frost or Ice",3
+"110261999","-1.363168","54.813289","Durham Constabulary","30/12/2017","County Durham","Slight","Snowing no high winds.","Snow",3
+"110262054","-1.679143","54.6641","Durham Constabulary","30/12/2017","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"170H10017","-1.349358","54.640178","Cleveland Police","02/01/2017","Hartlepool","Slight","Fine no high winds.","Frost or Ice",3
+"170H11097","-1.238344","54.708083","Cleveland Police","30/11/2017","Hartlepool","Slight","Snowing no high winds.","Frost or Ice",3
+"170H11107","-1.210981","54.68651","Cleveland Police","11/12/2017","Hartlepool","Slight","Fine no high winds.","Snow",3
+"170L10077","-0.989478","54.527403","Cleveland Police","13/01/2017","Redcar and Cleveland","Slight","Snowing no high winds.","Snow",3
+"170L30057","-1.067997","54.575082","Cleveland Police","22/01/2017","Redcar and Cleveland","Slight","Fine no high winds.","Frost or Ice",3
+"170L31347","-1.100435","54.606799","Cleveland Police","25/11/2017","Redcar and Cleveland","Slight","Fine no high winds.","Frost or Ice",3
+"170M12217","-1.247821","54.567273","Cleveland Police","10/12/2017","Middlesbrough","Slight","Snowing no high winds.","Snow",3
+"170M12277","-1.22563","54.572032","Cleveland Police","14/12/2017","Middlesbrough","Slight","Fine no high winds.","Frost or Ice",3
+"170M12347","-1.224922","54.557935","Cleveland Police","15/12/2017","Middlesbrough","Slight","Fine no high winds.","Frost or Ice",3
+"170M12477","-1.256207","54.542431","Cleveland Police","29/12/2017","Middlesbrough","Slight","Snowing no high winds.","Snow",3
+"170M22307","-1.1936","54.571706","Cleveland Police","11/12/2017","Middlesbrough","Slight","Fine no high winds.","Frost or Ice",3
+"170M22437","-1.204418","54.561892","Cleveland Police","29/12/2017","Middlesbrough","Slight","Fine no high winds.","Frost or Ice",3
+"170M31847","-1.189426","54.527874","Cleveland Police","06/11/2017","Middlesbrough","Slight","Fine no high winds.","Frost or Ice",3
+"170M32147","-1.279936","54.532679","Cleveland Police","01/12/2017","Middlesbrough","Slight","Fine no high winds.","Snow",3
+"170S10157","-1.321245","54.564193","Cleveland Police","24/01/2017","Stockton-on-Tees","Slight","Fine no high winds.","Frost or Ice",3
+"170S10337","-1.308592","54.587209","Cleveland Police","24/01/2017","Stockton-on-Tees","Slight","Fine no high winds.","Frost or Ice",3
+"170S12367","-1.316245","54.55241","Cleveland Police","30/11/2017","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"170S12457","-1.369642","54.559709","Cleveland Police","10/12/2017","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"170S30327","-1.299629","54.556728","Cleveland Police","24/01/2017","Stockton-on-Tees","Slight","Fine no high winds.","Frost or Ice",3
+"170S42517","-1.394677","54.523179","Cleveland Police","27/12/2017","Stockton-on-Tees","Slight","Fine no high winds.","Frost or Ice",3
+"100007916","-1.518081","54.876784","Northumbria Police","11/01/2016","Sunderland","Slight","Fine no high winds.","Frost or Ice",3
+"100008416","-1.620328","54.978514","Northumbria Police","11/01/2016","Newcastle upon Tyne","Slight","Fog or mist.","Frost or Ice",3
+"100010116","-2.118261","54.969236","Northumbria Police","11/01/2016","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100010616","-1.601679","55.124536","Northumbria Police","11/01/2016","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100010816","-1.63758","54.960819","Northumbria Police","11/01/2016","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"100011016","-1.494281","54.996361","Northumbria Police","11/01/2016","North Tyneside","Slight","Other.","Frost or Ice",3
+"100011816","-1.446329","54.864139","Northumbria Police","14/01/2016","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100012916","-1.447644","54.927537","Northumbria Police","14/01/2016","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100013316","-1.578773","54.968995","Northumbria Police","11/01/2016","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"100015016","-1.563214","54.901416","Northumbria Police","14/01/2016","Gateshead","Slight","Snowing and high winds.","Snow",3
+"100015616","-2.126344","55.105847","Northumbria Police","08/01/2016","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100015816","-1.585953","55.048433","Northumbria Police","11/01/2016","North Tyneside","Slight","Fine no high winds.","Frost or Ice",3
+"100016616","-2.020355","55.746762","Northumbria Police","14/01/2016","Northumberland","Slight","Other.","Frost or Ice",3
+"100017316","-1.425647","54.98955","Northumbria Police","14/01/2016","South Tyneside","Slight","Snowing and high winds.","Snow",3
+"100018216","-1.912199","54.916763","Northumbria Police","11/01/2016","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100018416","-1.461121","55.029405","Northumbria Police","15/01/2016","North Tyneside","Slight","Other.","Frost or Ice",3
+"100021816","-2.491237","54.918175","Northumbria Police","14/01/2016","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100022016","-1.956919","54.92164","Northumbria Police","14/01/2016","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100022716","-1.470154","54.84017","Northumbria Police","18/01/2016","Sunderland","Slight","Fine no high winds.","Frost or Ice",3
+"100022816","-1.843523","54.929635","Northumbria Police","08/01/2016","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100023216","-2.237721","55.26131","Northumbria Police","08/01/2016","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100023316","-2.246276","55.265508","Northumbria Police","08/01/2016","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100023916","-2.094467","55.564468","Northumbria Police","11/01/2016","Northumberland","Slight","Other.","Frost or Ice",3
+"100026716","-1.476662","54.852267","Northumbria Police","14/01/2016","Sunderland","Slight","Snowing no high winds.","Snow",3
+"100030816","-2.374234","55.319413","Northumbria Police","20/01/2016","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100032116","-1.549717","55.149086","Northumbria Police","11/01/2016","Northumberland","Slight","Other.","Frost or Ice",3
+"100041216","-1.409091","54.897277","Northumbria Police","18/01/2016","Sunderland","Slight","Fine no high winds.","Frost or Ice",3
+"100048652","-1.690673","55.07139","Northumbria Police","03/03/2016","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"100050516","-1.428712","54.880431","Northumbria Police","18/01/2016","Sunderland","Slight","Fine no high winds.","Frost or Ice",3
+"100087216","-1.580258","54.941906","Northumbria Police","13/02/2016","Gateshead","Slight","Snowing no high winds.","Snow",3
+"100091616","-1.748719","55.521134","Northumbria Police","14/02/2016","Northumberland","Slight","Snowing no high winds.","Frost or Ice",3
+"100093316","-1.512378","54.997953","Northumbria Police","18/01/2016","North Tyneside","Slight","Fine no high winds.","Frost or Ice",3
+"100094416","-1.549433","54.910801","Northumbria Police","13/02/2016","Sunderland","Slight","Raining no high winds.","Frost or Ice",3
+"100098016","-2.094369","55.589807","Northumbria Police","13/02/2016","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100098116","-1.526304","55.102897","Northumbria Police","19/02/2016","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100098188","-1.739154","55.221069","Northumbria Police","24/07/2016","Northumberland","Slight","Fine no high winds.","Snow",3
+"100101716","-1.617916","54.957685","Northumbria Police","16/02/2016","Gateshead","Slight","Fine no high winds.","Frost or Ice",3
+"100107216","-1.411891","54.909504","Northumbria Police","16/01/2016","Sunderland","Slight","Fine no high winds.","Frost or Ice",3
+"100126416","-2.031036","55.031673","Northumbria Police","13/02/2016","Northumberland","Slight","Snowing no high winds.","Snow",3
+"100129516","-1.437199","54.986009","Northumbria Police","28/02/2016","South Tyneside","Slight","Fine no high winds.","Frost or Ice",3
+"100130835","-1.544098","54.989413","Northumbria Police","26/11/2016","North Tyneside","Slight","Fine no high winds.","Frost or Ice",3
+"100133582","-1.613128","55.302579","Northumbria Police","05/12/2016","Northumberland","Slight","Other.","Frost or Ice",3
+"100140461","-1.591542","55.04377","Northumbria Police","28/12/2016","North Tyneside","Slight","Fine no high winds.","Frost or Ice",3
+"100140605","-1.678569","54.989115","Northumbria Police","28/12/2016","Newcastle upon Tyne","Slight","Other.","Frost or Ice",3
+"100140903","-1.690202","55.112051","Northumbria Police","29/12/2016","Northumberland","Slight","Fine no high winds.","Frost or Ice",3
+"100144716","-1.54225","54.954063","Northumbria Police","14/01/2016","Gateshead","Slight","Snowing and high winds.","Snow",3
+"100155657","-1.576743","54.888694","Northumbria Police","05/12/2016","Gateshead","Slight","Fine no high winds.","Frost or Ice",3
+"100167962","-1.655706","54.968887","Northumbria Police","23/11/2016","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"100170293","-1.666756","55.115081","Northumbria Police","21/11/2016","Northumberland","Slight","Fine and high winds.","Frost or Ice",3
+"100170986","-1.625201","54.967","Northumbria Police","21/11/2016","Newcastle upon Tyne","Slight","Fine no high winds.","Frost or Ice",3
+"100172094","-1.728114","54.953928","Northumbria Police","05/12/2016","Gateshead","Slight","Other.","Frost or Ice",3
+"100173097","-1.444103","54.91387","Northumbria Police","25/11/2016","Sunderland","Slight","Other.","Frost or Ice",3
+"110136930","-1.526476","54.793429","Durham Constabulary","29/11/2016","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"110137903","-1.369587","54.820844","Durham Constabulary","05/12/2016","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"11ND04666","-1.519437","54.741781","Durham Constabulary","19/02/2016","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"11NH00586","-1.697351","54.864826","Durham Constabulary","11/01/2016","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"11NI04426","-1.670624","54.79493","Durham Constabulary","14/02/2016","County Durham","Slight","Fine no high winds.","Frost or Ice",3
+"11SB03666","-2.264775","54.780279","Durham Constabulary","07/02/2016","County Durham","Slight","Snowing and high winds.","Snow",3
+"11SB04296","-1.750863","54.731774","Durham Constabulary","13/02/2016","County Durham","Slight","Snowing no high winds.","Snow",3
+"11SJ00436","-1.603343","54.546313","Durham Constabulary","08/01/2016","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"11SJ04046","-1.52589","54.514705","Durham Constabulary","15/02/2016","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"11SJ04266","-1.586255","54.536289","Durham Constabulary","11/02/2016","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"11SJ04406","-1.618528","54.53928","Durham Constabulary","15/02/2016","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"11SJ04586","-1.586104","54.561866","Durham Constabulary","16/02/2016","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"11SJ05056","-1.559011","54.524528","Durham Constabulary","23/02/2016","Darlington","Slight","Fine no high winds.","Frost or Ice",3
+"11SK01066","-1.444323","54.716495","Durham Constabulary","13/01/2016","County Durham","Slight","Snowing no high winds.","Snow",3
+"170H10046","-1.215704","54.676389","Cleveland Police","19/01/2016","Hartlepool","Slight","Fine no high winds.","Frost or Ice",3
+"170L10076","-1.068535","54.533662","Cleveland Police","14/01/2016","Redcar and Cleveland","Slight","Snowing no high winds.","Snow",3
+"170L10246","-0.989298","54.527454","Cleveland Police","24/02/2016","Redcar and Cleveland","Slight","Fine no high winds.","Frost or Ice",3
+"170L10266","-0.96341","54.525231","Cleveland Police","15/02/2016","Redcar and Cleveland","Slight","Snowing and high winds.","Frost or Ice",3
+"170M22536","-1.19517","54.55322","Cleveland Police","18/11/2016","Middlesbrough","Slight","Fine no high winds.","Frost or Ice",3
+"170M30446","-1.204529","54.534714","Cleveland Police","14/02/2016","Middlesbrough","Slight","Fine no high winds.","Snow",3
+"170M30646","-1.207128","54.509018","Cleveland Police","14/02/2016","Middlesbrough","Slight","Snowing and high winds.","Snow",3
+"170S10076","-1.372735","54.56404","Cleveland Police","08/01/2016","Stockton-on-Tees","Slight","Fine no high winds.","Frost or Ice",3
+"170S10116","-1.348871","54.60095","Cleveland Police","11/01/2016","Stockton-on-Tees","Slight","Fine no high winds.","Frost or Ice",3
+"170S10396","-1.349811","54.590539","Cleveland Police","15/02/2016","Stockton-on-Tees","Slight","Snowing no high winds.","Snow",3
+"170S10426","-1.413669","54.584781","Cleveland Police","15/02/2016","Stockton-on-Tees","Slight","Snowing no high winds.","Frost or Ice",3
+"170S20036","-1.292469","54.624719","Cleveland Police","01/01/2016","Stockton-on-Tees","Slight","Other.","Frost or Ice",3
+"170S42646","-1.352577","54.494103","Cleveland Police","24/11/2016","Stockton-on-Tees","Slight","Fine no high winds.","Frost or Ice",3

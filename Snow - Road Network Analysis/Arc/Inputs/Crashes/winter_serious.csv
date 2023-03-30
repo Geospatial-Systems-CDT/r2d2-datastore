@@ -1,0 +1,95 @@
+"accident_reference","longitude","latitude","police_force","date","local_authority_district","accident_severity","weather_conditions","road_surface_conditions","severity"
+"100929083","-2.026679","55.025006","Northumbria Police","11/02/2020","Northumberland","Serious","Snowing and high winds.","Wet or Damp",2
+"101010028","-1.414912","54.903243","Northumbria Police","24/12/2020","Sunderland","Serious","Snowing no high winds.","Wet or Damp",2
+"110937820","-1.766661","54.601069","Durham Constabulary","13/02/2020","County Durham","Serious","Snowing no high winds.","Snow",2
+"111010252","-1.429768","54.642667","Durham Constabulary","24/12/2020","County Durham","Serious","Snowing no high winds.","Snow",2
+"100835053","-2.269671","54.914728","Northumbria Police","01/02/2019","Northumberland","Serious","Snowing no high winds.","Snow",2
+"170L50139","-0.83535","54.56133","Cleveland Police","01/02/2019","Redcar and Cleveland","Serious","Snowing no high winds.","Snow",2
+"100259031","-2.149609","55.709576","Northumbria Police","17/01/2018","Northumberland","Serious","Snowing no high winds.","Frost or Ice",2
+"100259165","-2.065487","55.766651","Northumbria Police","16/01/2018","Northumberland","Serious","Snowing no high winds.","Snow",2
+"100260129","-1.444413","54.863914","Northumbria Police","19/01/2018","Sunderland","Serious","Snowing no high winds.","Wet or Damp",2
+"100260163","-2.109021","55.215613","Northumbria Police","16/01/2018","Northumberland","Serious","Snowing no high winds.","Snow",2
+"100260195","-1.654945","55.089689","Northumbria Police","21/01/2018","Northumberland","Serious","Snowing no high winds.","Snow",2
+"100260286","-1.94275","54.87783","Northumbria Police","19/01/2018","Northumberland","Serious","Snowing no high winds.","Frost or Ice",2
+"100264515","-1.389719","54.850072","Northumbria Police","04/02/2018","Sunderland","Serious","Snowing no high winds.","Snow",2
+"100272218","-1.762596","54.908822","Northumbria Police","27/02/2018","Gateshead","Serious","Snowing and high winds.","Snow",2
+"100272949","-1.721297","55.274103","Northumbria Police","01/03/2018","Northumberland","Serious","Snowing and high winds.","Snow",2
+"100273054","-2.070804","54.900459","Northumbria Police","01/03/2018","Northumberland","Serious","Snowing and high winds.","Snow",2
+"100339397","-1.806164","55.581388","Northumbria Police","28/10/2018","Northumberland","Serious","Snowing no high winds.","Frost or Ice",2
+"110264726","-1.523133","54.689586","Durham Constabulary","21/01/2018","County Durham","Serious","Snowing no high winds.","Snow",2
+"110275401","-1.682016","54.667522","Durham Constabulary","27/02/2018","County Durham","Serious","Snowing and high winds.","Snow",2
+"110275417","-1.552211","54.482658","Durham Constabulary","27/02/2018","Darlington","Serious","Snowing no high winds.","Snow",2
+"170L20308","-1.156415","54.557423","Cleveland Police","17/03/2018","Redcar and Cleveland","Serious","Snowing and high winds.","Snow",2
+"170L21078","-1.137498","54.55622","Cleveland Police","27/10/2018","Redcar and Cleveland","Serious","Snowing no high winds.","Snow",2
+"100154844","-1.909529","55.224417","Northumbria Police","10/02/2017","Northumberland","Serious","Snowing no high winds.","Frost or Ice",2
+"100248031","-1.534428","55.000955","Northumbria Police","11/12/2017","North Tyneside","Serious","Snowing no high winds.","Frost or Ice",2
+"100272482","-1.617603","55.100325","Northumbria Police","19/11/2017","Northumberland","Serious","Snowing no high winds.","Wet or Damp",2
+"110248869","-1.520851","54.54312","Durham Constabulary","01/12/2017","Darlington","Serious","Snowing no high winds.","Frost or Ice",2
+"110062140","-1.818005","54.857725","Durham Constabulary","15/04/2016","County Durham","Serious","Snowing no high winds.","Wet or Damp",2
+"11SA00916","-1.678508","54.6519","Durham Constabulary","17/01/2016","County Durham","Serious","Snowing no high winds.","Wet or Damp",2
+"100924409","-2.004797","55.761889","Northumbria Police","12/01/2020","Northumberland","Serious","Other.","Frost or Ice",2
+"101010668","-1.449159","55.000294","Northumbria Police","24/12/2020","North Tyneside","Serious","Raining and high winds.","Frost or Ice",2
+"110929786","-1.351637","54.783213","Durham Constabulary","07/02/2020","County Durham","Serious","Fog or mist.","Frost or Ice",2
+"110937820","-1.766661","54.601069","Durham Constabulary","13/02/2020","County Durham","Serious","Snowing no high winds.","Snow",2
+"111010252","-1.429768","54.642667","Durham Constabulary","24/12/2020","County Durham","Serious","Snowing no high winds.","Snow",2
+"170M30420","-1.245503","54.517703","Cleveland Police","25/02/2020","Middlesbrough","Serious","Fine no high winds.","Frost or Ice",2
+"100355333","-1.757713","55.274935","Northumbria Police","17/01/2019","Northumberland","Serious","Other.","Frost or Ice",2
+"100809522","-1.532075","55.002985","Northumbria Police","21/01/2019","North Tyneside","Serious","Other.","Frost or Ice",2
+"100812385","-1.529828","54.906159","Northumbria Police","01/02/2019","Sunderland","Serious","Other.","Frost or Ice",2
+"100835053","-2.269671","54.914728","Northumbria Police","01/02/2019","Northumberland","Serious","Snowing no high winds.","Snow",2
+"100898429","-2.037177","55.294209","Northumbria Police","13/11/2019","Northumberland","Serious","Fine no high winds.","Frost or Ice",2
+"100908676","-1.504287","54.993323","Northumbria Police","19/11/2019","North Tyneside","Serious","Other.","Frost or Ice",2
+"110812708","-1.783204","54.814827","Durham Constabulary","23/01/2019","County Durham","Serious","Fine no high winds.","Frost or Ice",2
+"110816047","-1.546422","54.530169","Durham Constabulary","02/02/2019","Darlington","Serious","Fine no high winds.","Snow",2
+"110819147","-1.820869","54.848003","Durham Constabulary","21/01/2019","County Durham","Serious","Fine no high winds.","Frost or Ice",2
+"110826634","-1.745993","54.713774","Durham Constabulary","31/01/2019","County Durham","Serious","Fine no high winds.","Frost or Ice",2
+"110907888","-1.558702","54.864238","Durham Constabulary","04/12/2019","County Durham","Serious","Fine no high winds.","Frost or Ice",2
+"170H11059","-1.216122","54.686157","Cleveland Police","01/12/2019","Hartlepool","Serious","Fine no high winds.","Frost or Ice",2
+"170L50139","-0.83535","54.56133","Cleveland Police","01/02/2019","Redcar and Cleveland","Serious","Snowing no high winds.","Snow",2
+"100259031","-2.149609","55.709576","Northumbria Police","17/01/2018","Northumberland","Serious","Snowing no high winds.","Frost or Ice",2
+"100259165","-2.065487","55.766651","Northumbria Police","16/01/2018","Northumberland","Serious","Snowing no high winds.","Snow",2
+"100260163","-2.109021","55.215613","Northumbria Police","16/01/2018","Northumberland","Serious","Snowing no high winds.","Snow",2
+"100260195","-1.654945","55.089689","Northumbria Police","21/01/2018","Northumberland","Serious","Snowing no high winds.","Snow",2
+"100260286","-1.94275","54.87783","Northumbria Police","19/01/2018","Northumberland","Serious","Snowing no high winds.","Frost or Ice",2
+"100264515","-1.389719","54.850072","Northumbria Police","04/02/2018","Sunderland","Serious","Snowing no high winds.","Snow",2
+"100268693","-1.845372","55.209221","Northumbria Police","15/02/2018","Northumberland","Serious","Fine no high winds.","Frost or Ice",2
+"100272218","-1.762596","54.908822","Northumbria Police","27/02/2018","Gateshead","Serious","Snowing and high winds.","Snow",2
+"100272949","-1.721297","55.274103","Northumbria Police","01/03/2018","Northumberland","Serious","Snowing and high winds.","Snow",2
+"100273054","-2.070804","54.900459","Northumbria Police","01/03/2018","Northumberland","Serious","Snowing and high winds.","Snow",2
+"100275471","-1.768876","55.084395","Northumbria Police","09/03/2018","Northumberland","Serious","Fine no high winds.","Frost or Ice",2
+"100277102","-1.752943","55.044008","Northumbria Police","18/03/2018","Northumberland","Serious","Fine no high winds.","Frost or Ice",2
+"100339375","-1.456226","54.896066","Northumbria Police","29/10/2018","Sunderland","Serious","Other.","Frost or Ice",2
+"100339397","-1.806164","55.581388","Northumbria Police","28/10/2018","Northumberland","Serious","Snowing no high winds.","Frost or Ice",2
+"100339663","-1.54862","55.04301","Northumbria Police","28/10/2018","North Tyneside","Serious","Fog or mist.","Frost or Ice",2
+"100339694","-1.63857","54.989185","Northumbria Police","29/10/2018","Newcastle upon Tyne","Serious","Fine no high winds.","Frost or Ice",2
+"100341071","-1.821604","54.996061","Northumbria Police","29/10/2018","Northumberland","Serious","Fine no high winds.","Frost or Ice",2
+"100348775","-2.210684","55.240874","Northumbria Police","05/12/2018","Northumberland","Serious","Raining no high winds.","Frost or Ice",2
+"100348824","-1.681377","55.420336","Northumbria Police","05/12/2018","Northumberland","Serious","Raining no high winds.","Frost or Ice",2
+"100352646","-1.57848","54.905223","Northumbria Police","25/12/2018","Gateshead","Serious","Fine no high winds.","Frost or Ice",2
+"110264726","-1.523133","54.689586","Durham Constabulary","21/01/2018","County Durham","Serious","Snowing no high winds.","Snow",2
+"110275401","-1.682016","54.667522","Durham Constabulary","27/02/2018","County Durham","Serious","Snowing and high winds.","Snow",2
+"110275417","-1.552211","54.482658","Durham Constabulary","27/02/2018","Darlington","Serious","Snowing no high winds.","Snow",2
+"110341900","-1.539297","54.708727","Durham Constabulary","31/10/2018","County Durham","Serious","Fine no high winds.","Frost or Ice",2
+"170L20308","-1.156415","54.557423","Cleveland Police","17/03/2018","Redcar and Cleveland","Serious","Snowing and high winds.","Snow",2
+"170L21078","-1.137498","54.55622","Cleveland Police","27/10/2018","Redcar and Cleveland","Serious","Snowing no high winds.","Snow",2
+"100145377","-1.978195","55.130916","Northumbria Police","14/01/2017","Northumberland","Serious","Fine no high winds.","Frost or Ice",2
+"100154844","-1.909529","55.224417","Northumbria Police","10/02/2017","Northumberland","Serious","Snowing no high winds.","Frost or Ice",2
+"100159224","-1.759255","55.241242","Northumbria Police","01/03/2017","Northumberland","Serious","Fine no high winds.","Frost or Ice",2
+"100247470","-1.471354","55.014842","Northumbria Police","09/12/2017","North Tyneside","Serious","Fine no high winds.","Frost or Ice",2
+"100248031","-1.534428","55.000955","Northumbria Police","11/12/2017","North Tyneside","Serious","Snowing no high winds.","Frost or Ice",2
+"100251164","-1.722242","55.025475","Northumbria Police","15/12/2017","Newcastle upon Tyne","Serious","Raining no high winds.","Frost or Ice",2
+"100252057","-1.978017","55.318582","Northumbria Police","27/12/2017","Northumberland","Serious","Fine no high winds.","Frost or Ice",2
+"110162424","-1.573351","54.561738","Durham Constabulary","14/02/2017","Darlington","Serious","Fine no high winds.","Frost or Ice",2
+"110248869","-1.520851","54.54312","Durham Constabulary","01/12/2017","Darlington","Serious","Snowing no high winds.","Frost or Ice",2
+"110259899","-1.437817","54.680296","Durham Constabulary","15/12/2017","County Durham","Serious","Fine no high winds.","Frost or Ice",2
+"110260016","-1.536499","54.651884","Durham Constabulary","16/12/2017","County Durham","Serious","Fine no high winds.","Frost or Ice",2
+"110261962","-1.871156","54.730201","Durham Constabulary","27/12/2017","County Durham","Serious","Fine no high winds.","Frost or Ice",2
+"170H10987","-1.34561","54.639124","Cleveland Police","30/11/2017","Hartlepool","Serious","Fine no high winds.","Frost or Ice",2
+"170H10997","-1.345518","54.639097","Cleveland Police","30/11/2017","Hartlepool","Serious","Fine no high winds.","Frost or Ice",2
+"170L30017","-1.091704","54.617204","Cleveland Police","02/01/2017","Redcar and Cleveland","Serious","Fine no high winds.","Frost or Ice",2
+"170S12347","-1.381373","54.55089","Cleveland Police","30/11/2017","Stockton-on-Tees","Serious","Fine no high winds.","Frost or Ice",2
+"100016016","-1.51461","54.995617","Northumbria Police","01/01/2016","North Tyneside","Serious","Raining no high winds.","Frost or Ice",2
+"100130190","-2.553752","55.20069","Northumbria Police","23/11/2016","Northumberland","Serious","Fine no high winds.","Frost or Ice",2
+"100130646","-2.41479","55.324907","Northumbria Police","25/11/2016","Northumberland","Serious","Fine no high winds.","Frost or Ice",2
+"110145682","-1.533419","54.852346","Durham Constabulary","22/12/2016","County Durham","Serious","Other.","Frost or Ice",2
+"170M10346","-1.229691","54.546893","Cleveland Police","11/02/2016","Middlesbrough","Serious","Fine no high winds.","Frost or Ice",2
