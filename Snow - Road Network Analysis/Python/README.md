@@ -1,3 +1,5 @@
-# Title
-
-## Subtitle
+#Traffic Network Analysis in Python
+##Network Centrality Analysis
+OSMnx was utilised to create directional graphs of the Northumberland road network. Subsequently, the edge centrality for closeness and betweenness was calculated, applied as an edge attribute and exported as a shapefile. Additionally, the results were shown graphically by the colouring of the edges, these graphics were also downloaded. Next the degree of node centrality was calculated for each node within the network. This were assigned as node attributes, and the data was exported as and shape file. Finally, three graphs were created for node centrality: showing the nodes themselves coloured by their centrality score; applying the minimum node centrality to score to the adjoining edges; and applying the maximum node centrality to score to the adjoining edges. Again, all of these figures were exported as outputs. This analysis helps identify those links that are critical to the operation of the road network.
+ ##Traffic Camera Photos
+The API for North East Traffic Cameras was utilised to download traffic camera location data and traffic camera images. An account is required to access this data, although it is free and easy to set up.  
