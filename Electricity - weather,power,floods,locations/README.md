@@ -6,7 +6,7 @@ One factor that can exacerbate the impact of power cuts is adverse weather condi
 
 Data sources like the Northern Power Grid website, WeatherAPI, National Flood Watch, Google Maps have been used to pull in the data. 
 
-![alt text](https://github.com/Geospatial-Systems-CDT/r2d2-datastore/blob/main/Electricity%20-%20weather%2Cpower%2Cfloods%2Clocations/Write%20up/7_mapdurham.png"Floods, Power Cuts, wind speeds, Hospitals in Durham")
+![alt text](https://github.com/Geospatial-Systems-CDT/r2d2-datastore/blob/main/Electricity%20-%20weather%2Cpower%2Cfloods%2Clocations/Write%20up/7_mapdurham.png "Floods, Power Cuts, wind speeds, Hospitals in Durham")
 Floods, wind speeds, in Durham.
 
 
