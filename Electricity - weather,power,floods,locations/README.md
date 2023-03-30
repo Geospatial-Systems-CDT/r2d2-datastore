@@ -4,7 +4,7 @@ The datastore for the R2D2 project, created as part of Cohort 4's group project
 ## Introduction
 One factor that can exacerbate the impact of power cuts is adverse weather conditions, such as heavy rain, strong winds, or extreme temperatures. In recent years, the frequency and severity of extreme weather events have increased, making it even more critical to monitor weather patterns and their potential impact on power infrastructure. In this study, we explore the prospect of monitoring weather conditions during power cuts. 
 
-Data sources like the Northern Power Grid, WeatherAPI, National Flood Watch, Google Maps have been demonstrated here to show their potential use  for Durham, UK, a county that suffered immensely during storm Arwen on 26th November 2021.  The graphs below are produced withing the data ranges from 14/03/2023 - 23/03/23 as historical data sets weren't available. 
+Data sources like the Northern Power Grid, WeatherAPI, National Flood Watch, Google Maps have been demonstrated here to show their potential use  for Durham, UK, a county that suffered immensely during storm Arwen on 26th November 2021.  The following figures are produced withing the data ranges from 14/03/2023 - 23/03/23 as historical data sets weren't available. 
 
 ![alt text](https://github.com/Geospatial-Systems-CDT/r2d2-datastore/blob/main/Electricity%20-%20weather%2Cpower%2Cfloods%2Clocations/Write%20up/7_mapdurham.png "Floods, Power Cuts, wind speeds, Hospitals in Durham")
 Floods, wind speeds & Power Cuts mapped in Durham.
