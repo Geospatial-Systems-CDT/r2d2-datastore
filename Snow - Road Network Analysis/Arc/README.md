@@ -1,3 +1,7 @@
-# Title
-
-## Subtitle
+#Traffic Network Analysis in ArcMap
+##Road Traffic Accident Kernel Density Estimations
+Reported vehicle crash data obtained from the Department for Transport and crashes occurring in wintry conditions were filtered out. Subsequently, the two datasets were subgrouped by severity. These six files were then uploaded to ArcGIS and six kernel density estimation plots were created. The three wintry plots were combined to create one overall wintry plot, and weights factors of slight (1), serious (3) and fatal (5) were applied. The same process was repeated for the non-wintry plots. Both plots were then converted into rasters and normalised. Finally, the non- wintry raster was subtracted from the wintry raster.  The road traffic accident hotspots were then easily identified, and the original crash point data was superimposed when exploring areas in detail.   
+##Multi-Criteris Evaluation of Road Risk
+The closeness and betweenness centrality shapefiles created in Python were upload to ArcGIS, along with the emergency services station locations which was uploaded as point data but converted into a layer by utilising the Euclidean distance tool. All three were converted into rasters and normalised. The closeness and emergency services layers were then inverted. Finally, these three layers, along with the road traffic accident layer were combined. This process was repeated multiple times with a variety of weights being applied. The risk raster was then clipped by the Northumberland boundary and the gritting routes superimposed. Thus, mapping the relative risk in the road network and showing that Council resources are potentially not being allocated in the correct locations.     
+##Road Traffic Camera Locations
+Road traffic camera point data was loaded into ArcGIS. This data was plotted on a basemap so the geographical locations of road traffic cameras in the North East of England could be easily observed. This map shows that the majority of cameras are located within the city, rural locations currently being under represented
