@@ -1,5 +1,5 @@
 # Electricity - Northern Power Grid & Weather 
-The datastore for the R2D2 project, created as part of Cohort 4's group project
+The datastore for the R2D2 project, created as part of Cohort 4's group project.
 
 ## Introduction
 One factor that can exacerbate the impact of power cuts is adverse weather conditions, such as heavy rain, strong winds, or extreme temperatures. In recent years, the frequency and severity of extreme weather events have increased, making it even more critical to monitor weather patterns and their potential impact on power infrastructure. In this study, we explore the prospect of monitoring weather conditions during power cuts. 
