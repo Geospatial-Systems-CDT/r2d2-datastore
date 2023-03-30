@@ -20,4 +20,4 @@ Unique Power Cuts plotted with Frequency.
 ![alt text](https://github.com/Geospatial-Systems-CDT/r2d2-datastore/blob/main/Electricity%20-%20weather%2Cpower%2Cfloods%2Clocations/Write%20up/power_freq.png "Unique Power Cuts plotted by reason of fault")
 Unique Power Cuts plotted by reason of Fault. 
 
-The bulk of the power cuts on those 3 days were from unexpected problems with the cables or equipment, which means that isolating power cut causes for something like a natural disaster might be a bit difficult without corroborating the known power cuts with other forms of data, such as twitter, night time imagery, etc that also is an opportunity for future work.
+The bulk of the power cuts on those 3 days were from unexpected problems with the cables or equipment, which means that isolating power cut causes for something like a natural disaster might be a bit difficult without corroborating the known power cuts with other forms of data, such as twitter, night time imagery, etc which poses an interesting opportunity for extending this work.
