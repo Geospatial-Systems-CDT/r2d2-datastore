@@ -2,7 +2,7 @@ import dash
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
-from dash.dependencies import Input, Output
+from dash.dependencies import Input, Output, State
 from dash_bootstrap_templates import load_figure_template
 import json
 import pandas as pd
@@ -25,10 +25,10 @@ import numpy as np
 import geopandas as gpd
 
 
-APPSYNC_ENDPOINT = #<To be defined>
-AWS_ACCESS_KEY_ID = #<To be defined>
-AWS_SECRET_ACCESS_KEY = #<To be defined>
-AWS_REGION_NAME = #<To be defined>
+APPSYNC_ENDPOINT = os.getenv('APPSYNC_ENDPOINT')
+AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')
+AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY')
+AWS_REGION_NAME = os.getenv('AWS_REGION_NAME')
 
 app = dash.Dash(external_stylesheets=[dbc.themes.SOLAR])
 application = app.server
@@ -64,7 +64,6 @@ def make_client():
     sesh = AWSSession(aws_access_key_id=AWS_ACCESS_KEY_ID,
                      aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
                      region_name=AWS_REGION_NAME)
-    # sesh = AWSSession(profile_name='ireland')
 
     credentials = sesh.get_credentials().get_frozen_credentials()
 
@@ -84,26 +83,39 @@ def make_client():
     return client, sesh
 
 client, aws = make_client()
-def refresh_data():
-    existing_cluster_resp = get_events()
+
+
+def check_for_events():
+    print('Check for Events')
+    event_pull = get_events()
+    if len(event_pull['listTwitterEventV2s']['items']) > 0:
+        return event_pull
+    else: 
+        return False
+
+def process_events(event_data):
+    print('Process Events')
     events = {}
-    for x in existing_cluster_resp['listTwitterEventV2s']['items']:
+    for x in event_data['listTwitterEventV2s']['items']:
         print(x['cluster_UUId'])
         events[x['cluster_UUId']] = x
 
-    events = pd.DataFrame.from_dict(events, orient='index', columns=list(events[next(iter(events))].keys()))
+    events_col = ['created_at_ttl', 'created_at', 'author_id', 'power_cut_value', 'conversation_id', 'deduced_location_geo', 'text', 'id', 'power_cut_type', 'deduced_location_geo.WEIGHT', 'deduced_location_geo.COORDINATES']
+    events = pd.DataFrame.from_dict(events, orient='index', columns=events_col)
     events = events.reset_index().drop('index', axis=1)
 
     events_gdf = []
-    for x in existing_cluster_resp['listTwitterEventV2s']['items']:
+    for x in event_data['listTwitterEventV2s']['items']:
         events_gdf.append(json.loads(x['cluster_polygon'])["features"][0])
 
     g_events = gpd.GeoDataFrame.from_features(events_gdf)
     g_events = g_events.merge(events, left_index=True, right_index=True)
 
     g_events.reset_index()
+    return g_events
 
-    ##############################################################################################
+def check_for_tweets():
+    print('Check for Tweets')
     dynamodb = aws.resource('dynamodb')
     table = dynamodb.Table('TwitterMapV2Table')
     # Set the TTL value for the records to retrieve
@@ -121,7 +133,14 @@ def refresh_data():
                             FilterExpression=Attr("created_at_ttl").gt(ttl_threshold))
         data.extend(response['Items'])
 
-    df = pd.json_normalize(data)
+    if len(data) > 0:
+        return data
+    else: 
+        return False
+
+def process_tweets(tweetdata):
+    print('Process Tweets')
+    df = pd.json_normalize(tweetdata)
     df = df[df['deduced_location_geo.WEIGHT'].notna()]
     df = df.drop(df[df['deduced_location_geo.COORDINATES'].apply(lambda x: isinstance(x[0], str))].index)
 
@@ -133,32 +152,29 @@ def refresh_data():
         df, geometry=gpd.points_from_xy(df.longitude, df.latitude))
 
     print("data reloaded")
-    return g_events, g_points
-
-
+    return g_points
 
 ##############################################################################################
-
-gdf_events, gdf_points = refresh_data()
-
 load_figure_template('solar')
 df_history = gpd.read_file('history.geojson')
 df_history['z_score'] = 1
 
 # Set Mapbox API key
-token = #<To be defined>
+token = os.getenv('MAPBOX_TOKEN')
 
 app.layout = dbc.Container(
                 children = [
                     html.H1("Live Twitter Map"),
-                    html.H2(id='live-update-text'),
+                    html.H2('Red Dots are historical tweets to @Northernpowergrid from 2021 and 2022, Yellow Dots are recent ones in last 24 hours, if cluster is detected they will be shown as a circle around the recent tweets'),
                     html.Hr(),
+                    html.H2(id='live-update-text'),
                     dbc.Row(
                         dcc.Graph(id="live-update-graph"), style={'height': '90vh'}
                         ),
+                        
                         dcc.Interval(
                         id='interval-component',
-                        interval=10*1000, # in milliseconds
+                        interval=30*1000, # in milliseconds
                         n_intervals=0
                     )
                 ],
@@ -181,48 +197,55 @@ def update_title(n):
 @app.callback(Output('live-update-graph', 'figure'),
               Input('interval-component', 'n_intervals'))
 def update_graph_live(n):
-    print(f'{datetime.now().strftime("%H:%M:%S")} - Start Data Relead')
-    gdf_events, gdf_points = refresh_data()
-    print(f'{datetime.now().strftime("%H:%M:%S")} - End Data Relead')
-    fig = px.choropleth_mapbox(
-        gdf_events,
-        geojson=gdf_events.geometry,
-        color=gdf_events.cluster_score,
-        locations=gdf_events.index,
-        opacity=0.5,
-        center={"lat": 54.9783, "lon": -1.6178}, zoom=11,
-        # range_color=[0, 100],
-        color_continuous_scale=px.colors.cyclical.IceFire,
-        )
+    print(f'{n} - {datetime.now().strftime("%H:%M:%S")} - Relead')
 
-    fig_points = px.scatter_mapbox(gdf_points,
-                            lat=gdf_points.geometry.y,
-                            lon=gdf_points.geometry.x,
-                            hover_name="text",
-                            color_continuous_scale=px.colors.cyclical.IceFire,
-                            color=gdf_points.power_cut_type,
-                            size=gdf_points['deduced_location_geo.WEIGHT'],
-                            size_max=10)
-
-
-    fig_heat = px.scatter_mapbox(df_history,
+    print('Loading Initial Map')
+    fig = px.scatter_mapbox(df_history,
                             lat=df_history.geometry.y,
                             lon=df_history.geometry.x,
                             hover_name="Postcode",
-                            # color_continuous_scale=px.colors.cyclical.IceFire,
+                            color_discrete_sequence=['darkred'],
                             text='Postcode',
-                            # size='z_score',
+                            opacity=0.2,
+                            # center={"lat": 54.433, "lon": -1.829}, zoom=8,
                             size_max=2)
-
 
     fig.update_layout(
         margin={"r":0,"t":30,"l":0,"b":0},
         mapbox_accesstoken=token,
         mapbox_style="dark") #carto-positron
-    fig.update_layout(mapbox_bounds={"west": -4, "east": 0, "south": 53, "north": 56})
+    fig.update_layout(mapbox_bounds={"west": -5, "east": 2, "south": 52, "north": 56})
 
-    fig.add_trace(fig_points.data[0])
-    fig.add_trace(fig_heat.data[0])
+
+
+    events_exist = check_for_events()
+    if events_exist != False:
+        gdf_events = process_events(events_exist)
+        fig_events = px.choropleth_mapbox(
+                                gdf_events,
+                                geojson=gdf_events.geometry,
+                                color=gdf_events.cluster_score,
+                                locations=gdf_events.index,
+                                opacity=0.5,
+                                color_discrete_sequence=['green'],
+                                # center={"lat": 55.1373, "lon": -1.7386}, zoom=9,
+                                # range_color=[0, 100],
+                                color_continuous_scale=px.colors.cyclical.IceFire,
+                                )
+        fig.add_trace(fig_events.data[0])
+
+    tweets_exist = check_for_tweets()
+    if tweets_exist != False:
+        gdf_points = process_tweets(tweets_exist)
+        fig_points = px.scatter_mapbox(gdf_points,
+                                lat=gdf_points.geometry.y,
+                                lon=gdf_points.geometry.x,
+                                hover_name="text",
+                                color=gdf_points.power_cut_type,
+                                size=gdf_points['deduced_location_geo.WEIGHT'],
+                                size_max=10)
+        fig.add_trace(fig_points.data[0])
+
     return fig
 
 
