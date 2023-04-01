@@ -1,0 +1,15 @@
+{
+  "short_name": "R2D2",
+  "name": "R2D2 Dashboard",
+  "icons": [
+    {
+      "src": "assets/logo-r2d2.png",
+      "type": "image/png",
+      "sizes": "16x16 24x24 32x32 64x64 128x128 192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#081D58",
+  "background_color": "#ffffff"
+}
