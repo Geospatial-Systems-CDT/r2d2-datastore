@@ -1,0 +1,198 @@
+﻿schema {
+  query: Query
+  mutation: Mutation
+  subscription: Subscription
+}
+
+type Mutation {
+  createTwitterEventV2(input: CreateTwitterEventV2Input!): TwitterEventV2
+  createTwitterMapV2(input: CreateTwitterMapV2Input!): TwitterMapV2
+  deleteTwitterEventV2(input: DeleteTwitterEventV2Input!): TwitterEventV2
+  deleteTwitterMapV2(input: DeleteTwitterMapV2Input!): TwitterMapV2
+  updateTwitterEventV2(input: UpdateTwitterEventV2Input!): TwitterEventV2
+  updateTwitterMapV2(input: UpdateTwitterMapV2Input!): TwitterMapV2
+}
+
+type Query {
+  getTwitterEventV2(cluster_UUId: ID!): TwitterEventV2
+  getTwitterMapV2(id: ID!): TwitterMapV2
+  listTwitterEventV2s(filter: TableTwitterEventV2FilterInput, limit: Int, nextToken: String): TwitterEventV2Connection
+  listTwitterMapV2s(filter: TableTwitterMapV2FilterInput, limit: Int, nextToken: String): TwitterMapV2Connection
+}
+
+type Subscription {
+  onCreateTwitterEventV2(cluster_UUId: ID, cluster_centroid: String, cluster_point: AWSJSON, cluster_radius: String, cluster_tweets: Int): TwitterEventV2 @aws_subscribe(mutations : ["createTwitterEventV2"])
+  onCreateTwitterMapV2(author_id: String, conversation_id: String, created_at: String, id: ID, text: String): TwitterMapV2 @aws_subscribe(mutations : ["createTwitterMapV2"])
+  onDeleteTwitterEventV2(cluster_UUId: ID, cluster_centroid: String, cluster_point: AWSJSON, cluster_radius: String, cluster_tweets: Int): TwitterEventV2 @aws_subscribe(mutations : ["deleteTwitterEventV2"])
+  onDeleteTwitterMapV2(author_id: String, conversation_id: String, created_at: String, id: ID, text: String): TwitterMapV2 @aws_subscribe(mutations : ["deleteTwitterMapV2"])
+  onUpdateTwitterEventV2(cluster_UUId: ID, cluster_centroid: String, cluster_point: AWSJSON, cluster_radius: String, cluster_tweets: Int): TwitterEventV2 @aws_subscribe(mutations : ["updateTwitterEventV2"])
+  onUpdateTwitterMapV2(author_id: String, conversation_id: String, created_at: String, id: ID, text: String): TwitterMapV2 @aws_subscribe(mutations : ["updateTwitterMapV2"])
+}
+
+type TwitterEventV2 {
+  cluster_UUId: ID!
+  cluster_centroid: String
+  cluster_detected_ttl: AWSTimestamp
+  cluster_point: AWSJSON
+  cluster_polygon: AWSJSON
+  cluster_radius: String
+  cluster_score: String
+  cluster_tweets: Int
+  cluster_updated_ttl: AWSTimestamp
+}
+
+type TwitterEventV2Connection {
+  items: [TwitterEventV2]
+  nextToken: String
+}
+
+type TwitterMapV2 {
+  author_id: String
+  conversation_id: String
+  created_at: String
+  created_at_ttl: AWSTimestamp
+  deduced_location_geo: AWSJSON
+  event: String
+  id: ID!
+  power_cut_type: String
+  power_cut_value: String
+  text: String
+}
+
+type TwitterMapV2Connection {
+  items: [TwitterMapV2]
+  nextToken: String
+}
+
+input CreateTwitterEventV2Input {
+  cluster_UUId: ID!
+  cluster_centroid: String
+  cluster_detected_ttl: AWSTimestamp
+  cluster_point: AWSJSON
+  cluster_polygon: AWSJSON
+  cluster_radius: String
+  cluster_score: String
+  cluster_tweets: Int
+  cluster_updated_ttl: AWSTimestamp
+}
+
+input CreateTwitterMapV2Input {
+  author_id: String
+  conversation_id: String
+  created_at: String
+  created_at_ttl: AWSTimestamp
+  deduced_location_geo: AWSJSON
+  power_cut_type: String
+  power_cut_value: String
+  text: String
+}
+
+input DeleteTwitterEventV2Input {
+  cluster_UUId: ID!
+}
+
+input DeleteTwitterMapV2Input {
+  id: ID!
+}
+
+input TableBooleanFilterInput {
+  eq: Boolean
+  ne: Boolean
+}
+
+input TableFloatFilterInput {
+  between: [Float]
+  contains: Float
+  eq: Float
+  ge: Float
+  gt: Float
+  le: Float
+  lt: Float
+  ne: Float
+  notContains: Float
+}
+
+input TableIDFilterInput {
+  beginsWith: ID
+  between: [ID]
+  contains: ID
+  eq: ID
+  ge: ID
+  gt: ID
+  le: ID
+  lt: ID
+  ne: ID
+  notContains: ID
+}
+
+input TableIntFilterInput {
+  between: [Int]
+  contains: Int
+  eq: Int
+  ge: Int
+  gt: Int
+  le: Int
+  lt: Int
+  ne: Int
+  notContains: Int
+}
+
+input TableStringFilterInput {
+  beginsWith: String
+  between: [String]
+  contains: String
+  eq: String
+  ge: String
+  gt: String
+  le: String
+  lt: String
+  ne: String
+  notContains: String
+}
+
+input TableTwitterEventV2FilterInput {
+  cluster_UUId: TableIDFilterInput
+  cluster_centroid: TableStringFilterInput
+  cluster_detected_ttl: TableIntFilterInput
+  cluster_radius: TableStringFilterInput
+  cluster_score: TableStringFilterInput
+  cluster_tweets: TableIntFilterInput
+  cluster_updated_ttl: TableIntFilterInput
+}
+
+input TableTwitterMapV2FilterInput {
+  author_id: TableStringFilterInput
+  conversation_id: TableStringFilterInput
+  created_at: TableStringFilterInput
+  created_at_ttl: TableIntFilterInput
+  event: TableStringFilterInput
+  id: TableIDFilterInput
+  power_cut_type: TableStringFilterInput
+  power_cut_value: TableStringFilterInput
+  text: TableStringFilterInput
+}
+
+input UpdateTwitterEventV2Input {
+  cluster_UUId: ID!
+  cluster_centroid: String
+  cluster_detected_ttl: AWSTimestamp
+  cluster_point: AWSJSON
+  cluster_polygon: AWSJSON
+  cluster_radius: String
+  cluster_score: String
+  cluster_tweets: Int
+  cluster_updated_ttl: AWSTimestamp
+}
+
+input UpdateTwitterMapV2Input {
+  author_id: String
+  conversation_id: String
+  created_at: String
+  created_at_ttl: AWSTimestamp
+  deduced_location_geo: AWSJSON
+  event: String
+  id: ID!
+  power_cut_type: String
+  power_cut_value: String
+  text: String
+}
